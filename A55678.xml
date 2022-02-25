@@ -1,0 +1,652 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prerogative of man: or, The immortality of humane soules asserted against the vain cavils of a late worthlesse pamphlet, entituled, Mans mortality, &amp;c. VVhereunto is added the said pamphlet it selfe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55678</idno>
+            <idno type="STC">Wing P3220A</idno>
+            <idno type="STC">ESTC R203203</idno>
+            <idno type="EEBO-CITATION">99825228</idno>
+            <idno type="PROQUEST">99825228</idno>
+            <idno type="VID">29605</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29605)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2109:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prerogative of man: or, The immortality of humane soules asserted against the vain cavils of a late worthlesse pamphlet, entituled, Mans mortality, &amp;c. VVhereunto is added the said pamphlet it selfe.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>[8], 32, 25-29, 36-45, [1]; [4], 43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by H. Hall],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>in the yeare, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing.</note>
+                  <note>A reissue of "The prerogative of man" (Wing P3220) and "Mans mortalitie" by Richard Overton (Amsterdam, printed by John Canne, 1644), with added general title page and contents leaf.</note>
+                  <note>Imperfect: NNUT copy lacks Overton, Richard. Mans mortalitie.</note>
+                  <note>Reproduction of the original at the Union Theological Seminary, Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Richard, fl. 1646. --  Mans mortallitie --  Controversial literature --  Early works to 1800.</term>
+               <term>Soul --  Early works to 1800.</term>
+               <term>Resurrection --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29605:1"/>
+            <pb facs="tcp:29605:1" rendition="simple:additions"/>
+            <p>THE Prerogative of Man: OR, THE IMMORTALITY OF <hi>H<g ref="char:V">Ʋ</g>MANE SO<g ref="char:V">Ʋ</g>LES</hi> ASSERTED Againſt the vain Cavils of a late worthleſſe Pamphlet, <hi>ENTITVLED,</hi> Mans Mortality, &amp;c. VVhereunto is added the ſaid Pamphlet it ſelfe.</p>
+            <q>
+               <bibl>GEN. 2. 7.</bibl> 
+               <hi>Man became a living ſoule.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ovid. Met.</hi> 1.</bibl> Os homini ſublime dedit.</q>
+            <p>
+               <hi>OXFORD,</hi> Printed in the yeare, 1645.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:29605:2"/>
+            <pb facs="tcp:29605:2" rendition="simple:additions"/>
+            <p>THE PREROGATIVE OF MAN: OR, His Soules Immortality, and high perfection defended, and ex<g ref="char:EOLhyphen"/>plained againſt the raſh and rude concep<g ref="char:EOLhyphen"/>tions of a late Authour who hath inconſi<g ref="char:EOLhyphen"/>derately adventured to impugne it.</p>
+            <q>I am the God of <hi>Abraham,</hi> the God of <hi>Iſaac,</hi> and the God of <hi>Jacob.</hi> God is not the God of the dead, but of the living. <bibl>Matt. 22. 32.</bibl>
+            </q>
+            <p>Printed in the yeare 1645.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:29605:3"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O great and ſoveraigne to man hath been the benignity of in<g ref="char:EOLhyphen"/>dulgent nature, as that ſhe hath not onely beſtowed upon his ſoule, above thoſe of other creatures, the high and ſingular prerogative of immortality, but hath moreover imparted to him light whereby he might come unto the knowledge of it, and by that ſame knowledge be excited to make a diligent inquiry after the obligati<g ref="char:EOLhyphen"/>ons that follow it, and how alſo in this life he may make his beſt advanta<g ref="char:EOLhyphen"/>ges and preparations for the next. Neither is this ſame truth of immor<g ref="char:EOLhyphen"/>tality any new diſcovery, but acknowledged of old by the Heatheniſh and Pagan nations; of which thing we in the worke enſuing, are to give in a large evidence by our producing the many teſtimonies of a full and fre<g ref="char:EOLhyphen"/>quent Senate of ancient Sages, who being deſtitute of revelation had no<g ref="char:EOLhyphen"/>thing but nature to inſtruct them.</p>
+            <p>To theſe I adde now, and for a taſt in the beginning preſent my Reader with onely two, the one taken out of the 12 Booke of <hi>Marcus An<g ref="char:EOLhyphen"/>toninus Auguſtus,</hi> the other out of <hi>Simplicius</hi> his Commentaries upon <hi>E<g ref="char:EOLhyphen"/>pictetus,</hi> one of theſe witneſſes, a Stoicke Philoſopher; the other, a Peri<g ref="char:EOLhyphen"/>patetique; in performance of which omitting the Greeke citations as a diligence for the moſt part unneceſſary in an Engliſh worke, behold the words of Antoninus. <hi>Haſt thou</hi> (faith he) <hi>forgotten that the minde or ſoule of every man is a God?</hi> He meanes by the word <hi>God,</hi> onely an entity divine and a ſubſtance of higher and nobler extraction, then other formes or ſoules of creatures inferiour. <hi>Simplicius</hi> in his <hi>Prolegomen.</hi> determines, ſaying, <hi>The ſoule maketh uſe of the body as of Organs or Inſtruments, as alſo it doth of the paſſions irrationall, and hath a ſub<g ref="char:EOLhyphen"/>ſtance altogether ſeparable from them, and remaining after their cor<g ref="char:EOLhyphen"/>ruption.</hi> The ſelfe ſame doctrine is delivered expreſſely and at large by <hi>Porphyry</hi> in his Booke <hi>De Abſtinentia.</hi>
+            </p>
+            <p>Againſt theſe powerfull impulſives and clearer notions of truth the
+<pb facs="tcp:29605:3" rendition="simple:additions"/>
+adverſe party hath nothing to oppoſe but meere ſurmiſes or ſuſpicions, ſuch namely as the Author of the Booke of Wiſedome out of their owne mouthes recordeth, ſaying, <hi>There hath not any one beene knowne to have returned from the Grave.</hi> Or elſe ſuch as <hi>Pliny</hi> doth imagine, who grafteth the opinion of immortality not upon an innate or naturall longing and appetite, as he ſhould have done, but contrariwiſe upon a falſe ambi<g ref="char:EOLhyphen"/>tion and greedineſſe in man of never ceaſing to be: Or againe, as <hi>Lucian,</hi> who brings nothing to make good what he conceiveth, beſides down-right impiety dreſſed up and ſet forth with facetious ſcoffes and deriſory jeſt<g ref="char:EOLhyphen"/>ings, wherewith nevertheleſſe ſundry ill affected ſpirits and feebler under<g ref="char:EOLhyphen"/>ſtandings are eaſier perſwaded, then with ſolid arguments.</p>
+            <p>The Chorus of <hi>Seneca</hi> afterwards alleadged moved as it may ſeeme with no better or ſtronger arguments, is driven as by a ſtorme into darke and doubtfull cogitations touching the ſoules mortality, and ſo is another Chorus conſiſting of <hi>Mahumetan Alfaquies</hi> in the Engliſh Tragedy of <hi>Muſtapha.</hi> By ſuch ſhadowes alſo as theſe a late Philoſopher was affright<g ref="char:EOLhyphen"/>ed, and before him ſome of the ancients, ſo farre forth as to be made ima<g ref="char:EOLhyphen"/>gine, that granting the ſoule ſhould ſurvive the body, yet that it would not thence follow it were perpetuall, but that contrarywiſe in tract of time it might decay and vapour it ſelfe at length to nothing, burning or waſting out it's owne ſubſtance like a torch or candle; or at leaſt have a period of duration ſet it, connaturally to the principles of conſtitution, beyond which it was not to paſſe, but at that terme or point preſently and natural<g ref="char:EOLhyphen"/>ly, to extinguiſh or returne to nothing.</p>
+            <p>But if ſuſpicions may come to be examined, we ſhall finde that there be other of them perſwading the ſoules mortality that ſeeme more hollow and deceiptfull then the former are; as namely, a depraved appetite or an un<g ref="char:EOLhyphen"/>bridled and untamed ſenſuality that ſollicites perpetually to be ſatisfied, and is deſirous, without feare of future reckonings in the other world, to wallow and tumble like a ſwine in the mire of dirty pleaſures, and to con<g ref="char:EOLhyphen"/>ceive ſome ſhadow of ſecurity for it, that ſo with the old Epicureans it might merrily ſay.</p>
+            <l>
+               <hi>Ede, bibe, lude, poſt mortem nulla voluptas.</hi>
+            </l>
+            <l>Eate, and drinke, and play thy fill,</l>
+            <l>There's after death nor good nor ill.</l>
+            <p>Doubtleſſe theſe latter perſwaders ſeeme to be more ruinous and cor<g ref="char:EOLhyphen"/>rupt then the former, and of more dangerous conſequence; And thus we ſee, that on either ſide there want not ſuſpicions as well for concluding of montality as of immortality, if we will be guided by them. But into this high Court of judicature wherein cauſes ſo weighty and ſo grave as this
+<pb facs="tcp:29605:4"/>
+are to be decided, ſuſpicions and darke imaginations will not be allowed for evidence, or be able to caſt the buſineſſe any way.</p>
+            <p>To theſe other proofes which after I alleadge I adde this one which I have placed in the frontispeice of this treatiſe, namely theſe words of Chriſt, Matth. 22. partly recited by him out of Exodus: <hi>I am the God of Abraham, and the God of Iſaak, and the God of Jacob. God is not the God of the dead, but of the living.</hi> By force of which Text the Sad<g ref="char:EOLhyphen"/>duces who denied the reſurrection were convinced, and not onely they but this Author alſo againſt whom we deale, for the place proves the ſoules immortality, as well as the bodies reſurrection, Becauſe if God be the God of Abraham after death, then muſt his body one day riſe againe, to the end that being reunited with the ſoule there might reſult an Abraham; againe, if he be the God alſo of the living then muſt his ſoule continue li<g ref="char:EOLhyphen"/>ving without any intermiſſion from death; for as without a body there is no Abraham, ſo without a ſoule there is no <hi>vivens,</hi> or thing endued with life. If you object, that it is ſufficient if it live then when the body is to riſe, though not before; I anſwer, that this intermitted living neither is nor can be ſufficient, becauſe then the ſoule muſt have a revivall &amp; reſu<g ref="char:EOLhyphen"/>ſcitation, for the which we have no warrant any where, &amp; feign it we muſt not; or if we do, it will want weight and be rejected. It followes then, that the ſoule of man after the departure of it from the body muſt either alwaies live or never, and ſo by conſequence ſeeing the ſoule muſt live once more it muſt live alwaies, that is to ſay, not onely at the reſurrection, as this Author ſaith, but continually from the time of the ſeparation to the time of the reunion, and ſo after everlaſtingly. And this is the concluſion was intended. And thus much touching the argument of the treatiſe following.</p>
+            <p>Now touching the Adverſary I am to let you know, that if the Rea<g ref="char:EOLhyphen"/>ders bad not deſerved much more regard then he, and beſides if the mat<g ref="char:EOLhyphen"/>ter had not required ſome elucidation, more then his objections did an an<g ref="char:EOLhyphen"/>ſwer, I had beene wholly ſilent and ſpared all this labour I have taken.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:29605:4"/>
+            <head>
+               <hi>The Contents of the ſeverall Chapters in</hi> The Prerogative of Man.</head>
+            <list>
+               <item>
+                  <label>Chap. I.</label>
+The Authors Deſigne, and the occaſion of it.</item>
+               <item>
+                  <label>Chap. II.</label>
+His firſt Claſſe of Arguments examined and refuted.</item>
+               <item>
+                  <label>Chap. III.</label>
+Seripture no way a favourer of the ſoules mortality.</item>
+               <item>
+                  <label>Chap. IV.</label>
+His argument out of Reaſon viewed and examined.</item>
+               <item>
+                  <label>Chap. V.</label>
+A refutation of certaine ſhifting Anſwers given unto ſundry Texts of holy Scripture.</item>
+               <item>
+                  <label>Chap. VI.</label>
+The rationall ſoule of man ingenerable and incorruptible.</item>
+               <item>
+                  <label>Chap. VII.</label>
+Mans being by Procreation no argument of his ſoules mortality.</item>
+               <item>
+                  <label>Chap. VIII.</label>
+A ſolution of the Adverſaries objections, together with ſome others of Doctor <hi>Daniel Sennertus.</hi>
+               </item>
+               <item>
+                  <label>Chap. IX.</label>
+The Adverſaries reſurrection of Beaſts exploded, together with a Concluſion of the Worke.</item>
+            </list>
+            <list>
+               <pb facs="tcp:29605:5"/>
+               <head>
+                  <hi>The Contents of the ſeverall Chapters in</hi> Mans Mortality.</head>
+               <item>
+                  <label>Chap. I.</label>
+Of Mans Creation, Fall, Reſtitution, and Reſurrection, how they diſprove the Opinion of the Soule, imagining the better part of Manimmortall: And proveth him <hi>(quatenus homo)</hi> wholly mortall.</item>
+               <item>
+                  <label>Chap. II.</label>
+Scriptures to prove this Mortality.</item>
+               <item>
+                  <label>Chap. III.</label>
+Naturall Reaſons to prove it: with Objections Anſwered.</item>
+               <item>
+                  <label>Chap. IV.</label>
+Objections from Naturall Reaſons Anſwered.</item>
+               <item>
+                  <label>Chap. V.</label>
+Objections extorted from Scripture Anſwered.</item>
+               <item>
+                  <label>Chap. VI.</label>
+Of Procreation, how from thence this Mortality is proved.</item>
+               <item>
+                  <label>Chap. VII.</label>
+Teſtimonies of Scripture to prove that whole man is generated, and propagated by Nature.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29605:5"/>
+            <head>The immortality of humane ſoules aſſer<g ref="char:EOLhyphen"/>ted againſt the vaine Cavills of a late worth<g ref="char:EOLhyphen"/>leſſe Pamphleter, and vindicated from reproach.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The Authours Deſigne, and the occaſion of it.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>S bodies that are foule and doe abound with pec<g ref="char:EOLhyphen"/>cant humours be ſubject to contagion and apt to be infected by each weake venome, from the danger whereof cleaner and better tempered bo<g ref="char:EOLhyphen"/>dies live ſecure, ſo, in like manner, mindes that be corrupted and all ſuch underſtandings as have loſt the ſtayes and principles of truth are eaſily entrapped by every poore and childiſh ſophiſtication; and having once left their anchour-hold floate afterwards up and downe upon the waves of humane opinations, are daſht againſt every rocke of er<g ref="char:EOLhyphen"/>rour, be it never ſo low, or contemptible, and, like unto ſmall weake flyes, be caught and entangled, not alwaies by the ſtrongeſt and moſt artificially woven cobweb, but by the very next, though never ſo rude and ſlender. This poore and ſorrowfull manner of failing muſt needs be of all other the moſt hatefull, not for the deadlineſſe of it, but rather for the reproach which followes; for by it a man looſeth not truth a<g ref="char:EOLhyphen"/>lone, but withall his reputation and eſteeme, it being a judgement ve<g ref="char:EOLhyphen"/>ry ſlenderly armed that with a wooden dart can be peirced through. Experience verifies what I affirme; for of late a ſorry Animal, better I cannot call him, whoſe ſoule be himſelfe thinkes to be mortall, and whoſe learning and capacity is ſo ſmall, as if indeed it were ſo as he imagineth it to be, a ſorry Animal I ſay, having ſtept into the crowde
+<pb n="2" facs="tcp:29605:6"/>
+of Scriblers in the defence of an old rotten hereſy condemned and ſuf<g ref="char:EOLhyphen"/>focated by conſent of the wiſe, almoſt at the houre of the birth, hath met with ſome ſoules ſo unhappy as to be perſwaded by him, and to thinke as meanely of themſelves as the wiſeſt of all ages did of beaſts; and to the diſhonour and debaſing of their owne kind, not elevating Beaſts to the degree of reaſon, as ſometimes <hi>Plutarch, Sextus Empiri<g ref="char:EOLhyphen"/>cus,</hi> and ſome others have ſought to doe, though vainely, and perad<g ref="char:EOLhyphen"/>venture more for oſtentation and argumentation ſake, then in any ear<g ref="char:EOLhyphen"/>neſt; but contrariwiſe reproachfully depreſſing man even as low as bruite beaſts, and aſcribing to them both a mortality alike.</p>
+               <p>The old and deſpicable hereſy which this obſcure authour now la<g ref="char:EOLhyphen"/>bours to reſuſcitate and to conjure up, was raiſed in <hi>Arabia</hi> about the time of <hi>Origen,</hi> and extinguiſhed by his diſpute, immediately after the birth, as <hi>Euſebius</hi> witneſſeth <hi>l.</hi> 6. <hi>Hiſt. c.</hi> 30. and according to the di<g ref="char:EOLhyphen"/>viſion of <hi>Rufinus,</hi> 27. ſuch as were infected with this errour were ter<g ref="char:EOLhyphen"/>med by Saint <hi>Auguſtine de Haereſ. c.</hi> 83. <hi>Arabici,</hi> by reaſon of the Pro<g ref="char:EOLhyphen"/>vince from whence the errour firſt aroſe: ſo that ſuch as now ſubmit unto it may well be termed wilde <hi>Arabians,</hi> which kinde of people by reaſon of their rude condition and volatile natures, were ever as rea<g ref="char:EOLhyphen"/>dy to be coſened, firſt, by this hereſy, and after, by the grand Impo<g ref="char:EOLhyphen"/>ſtour Mahomet, as the Romanes prepared to betray their owne liber<g ref="char:EOLhyphen"/>ty, then when <hi>Tiberius</hi> cried ſhame upon them for it, ſaying, <hi>O homi<g ref="char:EOLhyphen"/>nes ad ſervitutem paratos!</hi> O men prepared for ſervitude! who if he had lived in this age, and noted the pronity of men now adaies, to em<g ref="char:EOLhyphen"/>brace every groundleſſe fancy and to forgoe any antient and well grounded truth, would have changed a word or two and ſaid, <hi>O men<g ref="char:EOLhyphen"/>tes ad errorem paratas!</hi> O mindes prepared for errour! O mindes cor<g ref="char:EOLhyphen"/>rupt enough for the receiving and applauſe of any folly, of any errour, be it never ſo abſurde, diſadvantageous unto them, or derogating from the dignity of humane nature<hi>! O curvae in terris animae!</hi> About the time of theſe <hi>Arabici, Tatianus</hi> in an Oration of his yet extant ſeemes to have held with them, and afterwards ſome later Sectaries termed by reaſon of this their fooliſh errour <hi>Thnetopſychitae,</hi> as <hi>Damaſcene</hi> rela<g ref="char:EOLhyphen"/>teth <hi>l. de Haereſ.</hi>
+               </p>
+               <p>Upon the conſideration of thoſe errours that have of late infected us and betrayed humane nature, I cannot thinke it a thing improbable, but that the infernall ſpirit which hath ſuggeſted them and governed the hearts of men as a predominant planet, in theſe Northerne Provinces of <hi>Europe,</hi> is that martiall Devill called <hi>Apocal.</hi> 9. 11. <hi>Abaddon,</hi> or <hi>Apol<g ref="char:EOLhyphen"/>lyon,</hi> that is to ſay, a Deſtroyer; for as much as the deſignes of all ſuch
+<pb n="3" facs="tcp:29605:6"/>
+as have diſturbed our peace of late daies, are all generally for ruine and deſtruction; the former acts were for deſtruction of Prelacy, or power Eccleſiaſticall; the latter for ſubverſion of regality, or ſacred rights of Princes<hi>:</hi> they began with the deſtruction and prophanation of ſacred and religious edifices, now they take the ſame licence for ruinating of of Cathredrall and Collegiate Churches, and like true Barbarians, what time and leaſure doe not yet give them leave to demoliſh, that they at leaſt deface and contaminate, leaving behind them nothing but de<g ref="char:EOLhyphen"/>ſolation; neither ſufficed it to have beene contumelious to their owne anceſtours, unleſſe beſides they ſhould prove treacherous and falſe e<g ref="char:EOLhyphen"/>ven unto their owne nature, by their diveſting and diſrobing it of all the cheifeſt ornaments, which, according to the judgement of the wi<g ref="char:EOLhyphen"/>ſeſt, doe appertaine unto it.</p>
+               <p>For firſt, what is the wealth and treaſure of man, but the dignity and value of his actions? of this he hath long ſince beene plundered. His eyeſight whereby his ſteps were to be gui<g ref="char:EOLhyphen"/>ded, was his knowledge; but this divers have laboured to extinguiſh, by denying, with the old <hi>Academickes</hi> and late <hi>Socinians,</hi> that there is any certainty in it, and by becoming ſo witty as to know nothing. His crowne and life was the immortality of his better part, as therein cheife<g ref="char:EOLhyphen"/>ly being ſuperiour to beaſts and all other living things irrationall; but behold here a privy but a dangerous traitor endeavours to deſpoile him of it; ſo that in fine, if all theſe treacherous aſſailants might have their wills, he ſhall be wholly mortall, poore, feeble, blinde and miſerable, dethroned from his wonted dignity, and caſt downe unto the lower claſſe of Beaſts. <hi>Profectò plurima homini ex homine mala,</hi> as <hi>Pliny</hi> juſt<g ref="char:EOLhyphen"/>ly complaineth, though he himſelfe be one of the Authors of theſe e<g ref="char:EOLhyphen"/>evills. Was it not enough that all inferiour creatures doe rebell againſt us, but we muſt baſely and treacherouſly conſpire againſt our ſelves? The man that going from <hi>Jeruſalem</hi> to <hi>Jericho</hi> fell amongſt theeves, had hard meaſure offered him, for he was deſpoiled and wounded by them, and left onely halfe alive; but thoſe theeves amongſt whom we are now fallen be farre more cruell, for they would kill us outright both in ſoule and body, and with leſſe then this will not be contented. But now it is time we examine what urgent reaſons, what killing arguments there were that moved this new author unto ſo extravagant a courſe of rigour againſt all mankinde; for if theſe be not very urgent and invin<g ref="char:EOLhyphen"/>cible, we muſt conclude this man guilty not onely of much folly but al<g ref="char:EOLhyphen"/>ſo of heinous malice and temerity againſt the rights and prerogatives of man.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="4" facs="tcp:29605:7"/>
+               <head>CHAP. II. <hi>His firſt Claſſe of arguments examined and refuted.</hi>
+               </head>
+               <p>HIs firſt arguments be drawen from mans creation, fall, reſtitution and reſurrection: the principall is this,</p>
+               <p>That what of <hi>Adam</hi> was immortall through Innocency, was to be mortalized by tranſgreſſion.</p>
+               <p>But whole <hi>Adam (quatenus animal rationale)</hi> was in Innocency immortall.</p>
+               <p>
+                  <hi>Ergo</hi> all and every part even whole man liable to death by ſinne.</p>
+               <p>Upon this bungling argument or ſyllogiſme the weight of all his cauſe muſt leane, which as I perceive by the poſture it ſhould have been a ſyllogiſme, if the Author could have caſt it into that forme, but ſince that might not be, we will be contented to take it in groſſe as it lies, rather then paſſe it over without an anſwer. We grant then that indeed all <hi>Adam</hi> for example, by ſinning became mortall, and all and every part of him, that is to ſay, he was after ſo much of his age expired, to yeild up to death and be totally corrupted; or, which is all one, he was to have his two eſſentiall parts diſunited, and after that untill the reſurrection, neither he nor any of his parts thus diſſevered &amp; diſunited to be <hi>Adam</hi> or a man any longer. All which might be without that, either the matter of his body, or ſubſtance of his ſoule ſhould periſh, or be deſtroyed. And foraſmuch as concernes the matter of his body, it is an evident caſe becauſe matter is a thing both ingenerable and incorruptible, and ſo neither produced by his generation, nor deſtroyed by his corruption; and as by generation onely faſhioned and united, ſo againe by corrup<g ref="char:EOLhyphen"/>tion or death, onely defaced and diſunited or diſſolved. And as for the ſoule the other part, there is no more neceſſity death ſhould deſtroy it, then there was it ſhould deſtroy the matter, there being no more rea<g ref="char:EOLhyphen"/>ſon for the one then for the other. Wherefore Saint <hi>Paul</hi> wiſhing death that ſo he might be with Chriſt, did not deſire to be deſtroyed, as this ſilly authours doctrine would inferre, but to be diſſolved; for ſurely if his ſoule by act of mortality was to have beene deſtroyed, he could not thinke to be with Chriſt, during the time of that deſtruction, or diſſolution which he wiſhed, and ſo his words and wiſhing would have beene very vaine, ſeeing according to this Author he ſhould by his being diſſolved, come never the ſooner to be with Chriſt; becauſe according to this Author, neither alive, nor dead, he was to come unto
+<pb n="5" facs="tcp:29605:7"/>
+him before the Generall reſurrection; nay further, his wiſh would have made againſt himſelfe and his owne ends, becauſe he knowing Chriſt a little in this life, might in ſome ſmall meaſure injoy him in it; but if by death his ſoule be killed as well as his body, he ſhould have no knowledge at all nor comfort of Chriſt, but be caſt farther off then he was before.</p>
+               <p>Now, as all agree, that matter throughout all mutations, remaineth incorrupted; ſo alſo according to the judgement of ſundry knowing men and diligent inquirers into the workes of nature and tranſmuta<g ref="char:EOLhyphen"/>tion of naturall compounds, naturall and materiall formes themſelves alſo doe not periſh at their parting from their matters, but onely are diſſolved and diſſipated, lying after that, in their ſcattered atomes within the boſome of nature, from whence they were before, by force of the ſeed, extracted, the reſult of whoſe union was the forme. So that the entity of the forme remaines after corruption, though not in the eſſence and formality of a forme, or totally and compleatly. Thus teacheth the learned author of <hi>Religio medici,</hi> and exactly declares him<g ref="char:EOLhyphen"/>ſelfe; of the ſame minde is the famous late Phyſitian <hi>Daniel Sennertus</hi> in his <hi>Hypomnemata,</hi> though ſometimes not ſo fully; as for example, when he aſcribes to formes precedent the full production of the ſub<g ref="char:EOLhyphen"/>ſequent; aſſigning <hi>a vis prolifica</hi> in every forme for multiplying of it ſelfe: by which doctrine he ſeemes to recede from his former princi<g ref="char:EOLhyphen"/>ples of Atomes and not to ſticke conſtantly to them, yea and beſides to deliver a conceit which is hardly underſtood, and which moreo<g ref="char:EOLhyphen"/>ver ſeemes to be improbable; for, who can explicate what one forme does when it multiplies another, or what kinde of cauſality it doth then exerciſe, or by what ſtrange influence that effect is wrought and the forme made up of nothing. This ſame doctrine of <hi>Religio Medi<g ref="char:EOLhyphen"/>ci;</hi> and that alſo which we deliver here touching the Origination of formes was the doctrine of old <hi>Democritus</hi> expreſſed by him in his conſtitution of Atomes, or <hi>minima naturalia,</hi> not that every Atome did conteine a forme, as <hi>Sennertus</hi> ſeemes to thinke, but rather ſeverall pee<g ref="char:EOLhyphen"/>ces for the compoſition of it; as every ſimple, or ingredient of <hi>Dia<g ref="char:EOLhyphen"/>catholicon,</hi> for example, is not <hi>Diacatholicon,</hi> but conteines ſome<g ref="char:EOLhyphen"/>thing in it of which it is to be made up, and from which as from differ<g ref="char:EOLhyphen"/>ing heterogeneall parcells, collected and united by an artificiall mixtion it reſults; and for want of putting this difference or reſtraint, <hi>Sennertus</hi> his owne doctrine and explication of <hi>Democritus</hi> may ſeeme defe<g ref="char:EOLhyphen"/>ctive. This alſo was taught by <hi>Anaxagoras,</hi> when he affirmed all to be in all, or every thing, and to have a preexiſtence in the boſome of
+<pb n="6" facs="tcp:29605:8"/>
+nature before ſuch time as by the operation of ſeminall cauſes, formes be accompliſhed and made to appeare in their owne likeneſſe upon this theater. This is alſo the judgement of <hi>Athanaſ. Kircherius</hi> a late learned writer <hi>l.</hi> 3. <hi>de magnete, part.</hi> 3. <hi>c.</hi> 1. where he ſhewes how rich compounds earth and water be, as <hi>Chymique</hi> induſtries for ſeperation, have diſcovered, inſomuch as in them, as he noteth, is con<g ref="char:EOLhyphen"/>teined a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or generall magazine; the common matter be<g ref="char:EOLhyphen"/>ing from the firſt creation, not leane and hungry, but <hi>faeta</hi> and <hi>prae<g ref="char:EOLhyphen"/>ſeminata</hi> with formes partiall and incompleate. This alſo is the in<g ref="char:EOLhyphen"/>choations of formes and the <hi>rationes ſeminales</hi> praeëxiſtent, which ma<g ref="char:EOLhyphen"/>ny learned men have often favoured, and which, being thus explained, and in which this ſence of ours can ſuffer nothing from the objections of <hi>Gandavenſis,</hi> or <hi>Durandus.</hi> This laſtly, is nothing elſe, but in a good ſence, an eduction of formes <hi>ex potentia materiae,</hi> which is <hi>A<g ref="char:EOLhyphen"/>riſtotles</hi> and his Diſciples Doctrine; for, it cannot be thought, that <hi>A<g ref="char:EOLhyphen"/>riſtotle</hi> ever intended to preſſe, or ſqueeze any formes out of the dry <hi>skeleton</hi> of <hi>materia prima,</hi> which matter is a principle onely receptive, and no promptuary out of which to educe a forme by virtue of any naturall agent whatſoever; for in ſuch a ſpare entity as that what fe<g ref="char:EOLhyphen"/>cundity is imaginable? And ſo much touching the originall of formes, which is one of the abſtruſeſt and niceſt points in all philoſophy, and that which by vulgar authors is meanlieſt handled, and by the wiſeſt is knowne but by conjecture.</p>
+               <p>Thus his maine argument is anſwered, after which all the reſt will fall downe headlong with any light touch, though but of a finger.</p>
+               <p>Immediately after this he argueth out of <hi>Gen.</hi> 3. 19. where <hi>Adam</hi> is told, that for his diſobedience, he muſt turne into that duſt of which he was made; out of which he concludes, that all and every part of <hi>A<g ref="char:EOLhyphen"/>dam</hi> muſt be converted into duſt: which, if it be ſo, as he ſayeth, then not only his earthly particles, but his aiery, watry and fiery partes muſt to duſt alſo, and not only his body, but his ſoule, if he have any, muſt be turned into the ſame matter. See what fine concluſions follow out of this mortall ſoules philoſophy. It ſufficed then, that ſo much of his body, or of the whole man was to returne to duſt as had beene made up of it. And by this alone, the commination of God is fullfill<g ref="char:EOLhyphen"/>ed without any more adoe.</p>
+               <p>After this he comes upon us with his falſe Latin, ſaying as follow<g ref="char:EOLhyphen"/>eth. <q>Death reduceth this <hi>productio entis ex non ente ad Non-entem,</hi> returnes man to what he was before he was: that is, not to be, &amp;c. and by and by, citing impertinently two or three places of Scripture,
+<pb n="7" facs="tcp:29605:8"/>
+falls to another argument drawen from the reſurrection.</q>
+               </p>
+               <p>As for the Latine word <hi>Non-entem</hi> whether it be right, or no, we will not examine, but apply our ſelves to the conſideration of the ſenſe which is as faulty as the Latine can be: know therefore in breife, that death did not reduce <hi>Adam</hi> to <hi>non ens,</hi> but to <hi>non Adam;</hi> it did not cauſe him abſolutely not to be, but onely not to be man, or <hi>Adam</hi> any longer. And foraſmuch as concernes his body, it is confeſt and certaine, that it was not turned by death or mortality into nothing, or <hi>non ens,</hi> but into duſt which is an <hi>ens,</hi> or ſomething; that is to ſay, his body was not <hi>annihilated,</hi> but corrupted; and to dye, is not wholly to be deſtroyed, but partially only, which act is all one with diſſolution. Now, if to the totall mortalizing of man, it be not neceſſary that his body be deſtroyed, then can it not be needfull that his ſoule ſhould be ſo, and thus our adverſaries ſtout argument is more then mortalized, for it comes to nothing, which man by dying does not.</p>
+               <p>We will not deny him, but that the ſoule of man did die and die a<g ref="char:EOLhyphen"/>gaine, as much as it was capable of death; for firſt it dyed by the being ſeperated from the body; ſecondly, by being ſubjected unto damna<g ref="char:EOLhyphen"/>tion, which, as we know, is called in ſcripture a ſecond death. But as for the annihilation of it, or of the body, that is it which we deny; and ſo to doe we have juſt reaſon. In fine, as generation is nothing but the union of the parts, and not the creation or abſolute production of them; ſo againe, Death and Corruption is nothing but the diſunion, or diſſolution of them, and in no wiſe the annihilation, according as this wiſe Author would perſwade us.</p>
+               <p>As for the article of the Reſurrection, it proves nothing againſt the perpetuity of the ſoule; for we never read of any reſurrection beſides that of the body: wherefore, to averre a reſurrection of ſoules were a grand foolery, and a doctrine never debateable or heard of amongſt Chriſtians, till this ſilly Author came to teach it. And ſo much for his firſt chapter.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Scripture no way a favourer of the ſoules mortality?</hi>
+               </head>
+               <p>HIs places cited out of ſcripture in favour of his errour are ſo imperti<g ref="char:EOLhyphen"/>nent, as that it were no ſmall peice of folly to examine them one by one; They all of them ſignifie that man ſhall dye, or ſometimes, that <hi>Joſeph</hi> or <hi>Simeon</hi> is not, as <hi>Gen.</hi> 42. 36. all which how they are to
+<pb n="8" facs="tcp:29605:9"/>
+be expounded and underſtood, may ſufficiently appeare by that which hath beene ſaid in the precedent chapter, and how againe they make nothing at all againſt the ſoules immortality.</p>
+               <p>Touching the words of <hi>Eccleſiaſtes c.</hi> 3. the anſwer is, that they were no determinations, or reſolves, but a hiſtory, or an account gi<g ref="char:EOLhyphen"/>ven of what ſometimes came into his thoughts, and what obſcurities and deſolations of ſoule he had, and what laſtly was one of the firſt difficulties that troubled him and ſtirred him up unto a ſollicitous en<g ref="char:EOLhyphen"/>quiry; for certainely this one verity of the mortality of mans ſoule is that which is to order his deſignes, to regulate his actions, and to put life and vigour into them, this being a truth moſt fundamentall. We ſee this one was it which moved <hi>Clemens Rom.</hi> (if he be the true Author of that which paſſeth under his name) to a ſerious inquiry and care <note place="margin">
+                     <hi>Clem. l.</hi> 1. <hi>re<g ref="char:EOLhyphen"/>cogn.</hi>
+                  </note> for the finding out what he was to do, whom to conſult, what to e<g ref="char:EOLhyphen"/>ſteeme moſt, and in fine what to feare, or hope moſt, and how to or<g ref="char:EOLhyphen"/>der all the paſſages of his life. This is the queſtion that uſually trou<g ref="char:EOLhyphen"/>bles men firſt of all, and till a reſolution be had, ſuffereth their hearts not to be at quiet, every man at firſt ſuſpiciouſly, as <hi>Solomon</hi> did, asking of himſelfe, as <hi>Seneca</hi> gallantly expreſſeth, ſaying. <note place="margin">Senec. in Troade</note>
+               </p>
+               <lg>
+                  <l>Verum eſt? an timidos fabula decipit</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>mbras corporibus vivere conditis?</l>
+                  <l>Cum conjux oculis impoſuit manum,</l>
+                  <l>Supremuſque dies Solibus obſtitit,</l>
+                  <l>Et Triſtes cineres urna coërcuit.</l>
+                  <l>Non prodeſt animam tradere funeri,</l>
+                  <l>Sed reſtat miſeris vivere longius?</l>
+                  <l>An toti morimur? nullaque pars manet,</l>
+                  <l>Noſtri cum profugo ſpiritus halitu</l>
+                  <l>Immiſtus nebulis ceſſit in aëra,</l>
+                  <l>Et nudum tetigit ſubdita fax latus?</l>
+               </lg>
+               <lg>
+                  <l>Is it a truth? or that our feares</l>
+                  <l>Have buzz'd a fable in our eares?</l>
+                  <l>That mans hovering ſpirits doe live</l>
+                  <l>And their interred corps ſurvive.</l>
+                  <l>When greived conſorts hands do cloſe</l>
+                  <l>Their eyes, and their laſt dayes oppoſe</l>
+                  <l>Our bright <hi>Hyperions</hi> beamy light,</l>
+                  <l>And drownes the ſlender ſhades in night</l>
+                  <l>Then when our bones to aſhes burne,</l>
+                  <l>To be confin'd within an urne.</l>
+                  <l>
+                     <pb n="9" facs="tcp:29605:9"/>
+Be not the funeralls our fate</l>
+                  <l>But there muſt be a longer date</l>
+                  <l>For wretched man? Or doth he dye</l>
+                  <l>Intirely, and entombed lye?</l>
+                  <l>Or may he not forthwith conſume</l>
+                  <l>And vaniſh all in ſlender fume</l>
+                  <l>Then when his wandring ſpirit flyes</l>
+                  <l>And mingles with the aiëry skies.</l>
+                  <l>And when the diſmall funerall torch</l>
+                  <l>His ſide inſenſible doth ſcorch.</l>
+               </lg>
+               <p>After this ſort do anxious and afflicted ſpirits often times argue and diſpute within themſelves, laying before their eyes all the doubts and difficulties immaginable before they deſcend to the making of any concluſion at all, or to the determining of any ſettled doctrine. Thus, and no otherwiſe did <hi>Solomon,</hi> when firſt revolving in his thoughts the matter of the ſoules condition, and touching upon the various ſuſ<g ref="char:EOLhyphen"/>picious of men concerning it with no ſmall ſenſe and anguiſh of mind, at length <hi>c.</hi> 12. drawing to a concluſion, determines ſaying, let the <note place="margin">
+                     <hi>Eccle:</hi> 12.</note> duſt returne unto the earth from whence it came, and the ſpirit unto God who gave it. And this text alone is ſufficient to confound the Adverſary, and to confute whatſoever he hath endeavoured to draw out of ſcripture for mans totall corruption and mortality.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. 4. <hi>His argument out of reaſon viewed and examined.</hi>
+               </head>
+               <p>WHat the ſeverall fancies were of heathen Philoſophers touch<g ref="char:EOLhyphen"/>ing the nature and definition of the ſoule is not much regard<g ref="char:EOLhyphen"/>able, ſundry of them being ſo monſtrous and abſurd. But it is a thing very conſiderable, that amongſt ſo many ſtragling and wilde conceits all, or moſt of all at leaſt of the nobleſt and the beſt Philoſophers have taught the immortality of the ſoule it ſelfe. Howſoever, in other buſineſſes concerning it, they might ſometimes diſagree. <hi>Permanere animos arbitramur,</hi> ſaith <hi>Cecero, conſenſu nationum omnium: qua in</hi> 
+                  <note place="margin">
+                     <hi>Cicero Tuſcul. l.</hi> 1.</note> 
+                  <hi>ſede maneant qualeſque ſint ratione diſcendum eſt,</hi> * and againe in his <hi>Hortenſius,</hi> as witneſſeth Saint <hi>Auguſtine l.</hi> 14. <hi>de Trinitate. Antiquis Philoſophis hisque maximis <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ngèque clariſſimis placuit quod aeternos animos divinoſque habeamus.</hi> We are perſwaded by the conſent of all nations that ſoules remaine, but muſt learne of reaſon of what qua<g ref="char:EOLhyphen"/>lity they are, and in what places they remaine. This aſſertion of <hi>Cice<g ref="char:EOLhyphen"/>ro,</hi>
+                  <pb n="10" facs="tcp:29605:10"/>
+for conſent of nations and Philoſophers in this truth, hath beene ſhewed to the eye by the great diligence and learning of <hi>Auguſtinus Steuchus,</hi> commonly called <hi>Eugubinus,</hi> in the 9 booke of his excellent <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ugubinus l</hi> 9. <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Peren. Philo<g ref="char:EOLhyphen"/>ſoph.</hi>
+                  </note> worke <hi>de perenni Philoſophia,</hi> in which he voucheth to this purpoſe the authorities of <hi>Pherecides Syrus,</hi> who, as <hi>Cicero</hi> witneſſeth, was the firſt that delivered this verity in writing, alſo of <hi>Triſmegiſtus</hi> and the <hi>Chaldean</hi> monuments of <hi>Plato,</hi> likewiſe <hi>Pythagoras, Aratus, Philo, Cicero, Plotinus, Jamblichus, Hierocles,</hi> and ſundry others, as alſo of <hi>Ariſtotle</hi> the Prince of the <hi>Peripatetiques,</hi> who is judged by the greateſt ſearchers into his doctrine to have directly taught the immortality, although he hath not declared himſelfe in that point, as in many others, nor as others have done, peradventure concealing himſelfe on ſet purpoſe, becauſe he for want of light from divine re<g ref="char:EOLhyphen"/>velation was not able to tell what to do with them after death, nor was he willing to make up his matter with fictions poeticall, as his maſter <hi>Plato</hi> had done. The ſame Philoſophers alſo are diligently al<g ref="char:EOLhyphen"/>leadged <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>leſs. c.</hi> 15. <hi>de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erit. Chriſt. Rel.</hi>
+                  </note> by <hi>Monſieur Pleſſy,</hi> in his booke <hi>de veritate Relig. Chriſtia<g ref="char:EOLhyphen"/>nae,</hi> which is every where extant. Beſides, the ſame doctrine of immortality hath beene conſtantly taught by the learned <hi>Aben Sina,</hi> or <hi>Avicen</hi> in the laſt booke of his <hi>Metaphyſiques,</hi> and alſo in his <hi>Al<g ref="char:EOLhyphen"/>mabad,</hi> in which treatiſe he maintaineth conſtantly the immor<g ref="char:EOLhyphen"/>tality of the ſoule, but earneſtly impugneth the bodies reſurrect ion, and withall which is moſt falſe and improbable, defends that <hi>Mahomet</hi> in his law never taught it, but only parabolically and for faſhion ſake, complying with the peoples rudeneſſe, whereby they were not ſen<g ref="char:EOLhyphen"/>ſible of any doctrine teaching a felicity that was ſpirituall. <q>Another <hi>Arabique</hi> author who goes under the name of <hi>Ariſtotle</hi> is of the ſame minde with <hi>Avicen:</hi> ſeeing, ſaith he, it is manifeſt out of the bookes of <note place="margin">
+                        <hi>Author ſecret. ſap. ſecundum AEgyptios. p.</hi> 1, &amp; 12.</note> the ancient, and already proved that the ſoule or minde, is not a bo<g ref="char:EOLhyphen"/>dy, nor doth periſh, but remaine &amp;c.</q> Thus he <hi>l.</hi> 1. <hi>de divin. ſap. ſecundum Aegyptios, c.</hi> 2. conſonantly to other Philoſophers, though afterwards, in the very next chapter, moſt abſurdly he af<g ref="char:EOLhyphen"/>firmes as much of the ſoules of Beaſts. <q>Afterwards <hi>c.</hi> 4. he addeth, ſaying. If our foreelders had beene doubtfull of the ſoules im<g ref="char:EOLhyphen"/>mortality, they had never, for the confirmation thereof by natures dictamen, made a law againſt which no man is, but he who is en<g ref="char:EOLhyphen"/>tangled in vice. And a little after. The ſoule therefore paſſing out of this life, and gotten into the other world, doth not at all periſh. Laſtly <hi>l.</hi> 12 <hi>a c.</hi> 10. <hi>ad</hi> 17. he, by many arguments aſſayeth to prove that the ſoule is void of corporeity.</q> Thus he, of whoſe credit and excellency ſee the judicious cenſure of Doctor <hi>Guiliel. Dunal</hi> in <hi>Synopſi doctrinae Peripateticae cap. ultimo.</hi>
+               </p>
+               <p>
+                  <pb n="11" facs="tcp:29605:10"/>
+Next unto this Author I produce <hi>Manilius,</hi> yet, not as a light Poet, but as a ſage Philoſopher, he flouriſhed in the time of <hi>Ceſa Julius.</hi> This ſame ſame Author <hi>l.</hi> 1. <hi>Aſtronomicωn,</hi> ſpeaking of the <hi>Galaxia</hi> and indeavouring to give a reaſon of it, writeth on the manner fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <lg>
+                  <l>Nec mihi celanda eſt famae vulgata vetuſtas</l>
+                  <l>Mollior ex niveo lactis fluxiſſe liquorem</l>
+                  <l>Pectore reginae divum, caelumque colore</l>
+                  <l>Infeciſſe ſuo, quapropter lacteus orbis.</l>
+                  <l>Dicitur, &amp; nomen cauſa deſcendit ab iſta.</l>
+                  <l>An Major denſâ ſtellarum turba Coronâ</l>
+                  <l>Contexit flammas &amp; craſſo lumine candet</l>
+                  <l>Et fulgore nitet collato clarior orbis</l>
+                  <l>An fortes animae dignata<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> nomina coelo</l>
+                  <l>Corporibus reſoluta ſuis, terra<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> remiſſa,</l>
+                  <l>Huc migrant ex orbe, ſuum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> habitantia coelum</l>
+                  <l>Aethereos vivunt annos mundo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fruuntur.</l>
+               </lg>
+               <lg>
+                  <l>Nor will we hide what ancient fame profeſt,</l>
+                  <l>How milke that guſht from <hi>Juno's</hi> ſnowy breaſt</l>
+                  <l>In heaven that ſplendent path and circle drew</l>
+                  <l>From whence the name, as erſt the colour grew,</l>
+                  <l>Or troopes of unſeene ſtarres there joyne their light</l>
+                  <l>And with their mingled ſplendours ſhine more bright.</l>
+                  <l>Or ſoules Heroïck from their bodies freed</l>
+                  <l>And earthly partes, attaine their virtues meed</l>
+                  <l>This ſhining Orbe, and from their lowly herſe</l>
+                  <l>Aſcending high, enjoy the univerſe,</l>
+                  <l>And live Aethereall lives.</l>
+                  <l>And againe,</l>
+               </lg>
+               <lg>
+                  <l>Iam capto potimur mundo noſtrum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> parentem</l>
+                  <l>Pars ſua conſpicimus, geniti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> accedimus aſtris.</l>
+                  <l>Nec dubium eſt habitare Deum ſub pectore noſtro,</l>
+                  <l>In coelum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> redire animas coelo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> venire.</l>
+               </lg>
+               <lg>
+                  <l>Of the whole world we'are now poſſeſt,</l>
+                  <l>And cleare behold our Parent bleſt,</l>
+                  <l>A part of him, and from theſe warres</l>
+                  <l>Make our approaches to the ſtarres.</l>
+                  <l>No doubt but under humane breſt</l>
+                  <l>A ſacred Deity doth reſt;</l>
+                  <l>And that our ſoules from heaven came</l>
+                  <l>And thither muſt returne againe.</l>
+               </lg>
+               <p>
+                  <pb n="12" facs="tcp:29605:11"/>
+Lo here how he doth ſignifie, not onely the ſoules of men be di<g ref="char:EOLhyphen"/>vine and immortall, but beſides, that they had not their originall from the earth, or from any earthly agent, with whom conſenteth a Greeke Philoſopher <hi>Salluſtius Emeſcenus</hi> in his booke <hi>de Diis &amp; mundo</hi> late<g ref="char:EOLhyphen"/>ly publiſhed and vindicated from the moathes by <hi>Leo Allatius;</hi> This Philoſopher <hi>c.</hi> 8. teacheth on this ſort. <q>Firſt ſaith he, let us know <note place="margin">
+                        <hi>Salluſtius Emaſenc.</hi> 8.</note> what the ſoule is. The ſoule is that which makes things living or animated, differ from the liveleſſe, or inanimate. Their difference conſiſts in motion, ſenſe, phantaſie, and intelligence. The ſoule de<g ref="char:EOLhyphen"/>voyd of reaſon is a life that ſerves apparences and the ſenſes, but the rationall, uſing reaſon, beares rule over the ſenſe and Phantaſie. In<g ref="char:EOLhyphen"/>deed, a ſoule deſtitute of reaſon followes the affections of the body, for it deſires and is angry without reaſon; but a rationall, according to the rule of reaſon, contemnes the body, and entring into combate with the ſoule irrationall, if it get the better doth follow virtue, if vanquiſht declines to vice. This of neceſſity muſt be immortall be<g ref="char:EOLhyphen"/>cauſe it knowes the Goddeſſe, and no mortall thing can know that which is immortall; beſides, it contemnes humane things, as if they were belonging to ſome other perſon, and being it ſelfe incorporeall, is a verſe from things corporeall, which bodies, if they be faire and freſh, it languiſheth, if old, it begins to flouriſh. Alſo every diligent ſoule makes uſe of the mind. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. the ſoule is not generated by the body, for how ſhould any thing that wanteth reaſon generate that which hath? Thus <hi>Sallu<g ref="char:EOLhyphen"/>ſtius,</hi> out of whoſe words we have, firſt, that the ſoule differs from the body. 2. That the rationall from the irrationall, or the ſence;</q> 3. That the rationall is immortall and the reaſon why. 4. That it is ingenerable and for what cauſe. With this greeke <hi>Salluſtius</hi> agrees the Roman, who <hi>l. de bello, Jugurth ſaying, Ingeniiegregia facinora, ſi<g ref="char:EOLhyphen"/>cut anima immortalia ſunt.</hi> The egregious atcheivments of the wit are like the ſoule immortall, and, by and by, <hi>Omnia orta occidunt, aucta ſeneſcunt, animus incorruptus, aeternus, rector humani generis.</hi> All things which rife do fall, and being ever eaſed doe wax old, the minde is in<g ref="char:EOLhyphen"/>corrupt and eternall &amp;c.</p>
+               <p>Our next authority is that of <hi>Apollonius Tyanaeus</hi> that famous Py<g ref="char:EOLhyphen"/>thagorean Phyloſopher whoſe life <hi>Philoſtratus Lemnius</hi> hath writ at <note place="margin">
+                     <hi>Apollonius a<g ref="char:EOLhyphen"/>pud Philoſtrat. l.</hi> 8. <hi>de vita e<g ref="char:EOLhyphen"/>jus.</hi>
+                  </note> large, and amongſt other accidents, relates of him how, after his de<g ref="char:EOLhyphen"/>ceaſe, he appeared to a young man a ſtudent in philoſophy reſolving him as followeth. <q>The ſoule is immortall and no humane thing but proceedeth from the providence divine. This, therefore, after the
+<pb n="13" facs="tcp:29605:11"/>
+body is corrupted, as a ſwift courſer releaſed from his bonds and delivered from a troubleſone ſervitude, removeth up and downe and intermingles with the gentle aire.</q> Thus he, to whom conſent<g ref="char:EOLhyphen"/>eth moſt expreſſely <hi>Hierocles</hi> in his commentary upon the golden verſes of <hi>Pythagoras</hi> in ſundry places, telling us that the ſoule is not only incorruptible, but alſo made immediately, not by procreation but the hand of God. See him of the Greeke and Latine edition of <hi>Paris pag.</hi> 101. 103, 132.</p>
+               <p>
+                  <q>I will adde to theſe the words of the Emperour <hi>Marcus Antoninus,</hi> commonly called <hi>Aurelius, l.</hi> 4. <hi>n.</hi> 13. according to <hi>Merick Caſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>bon's</hi> diviſion, If ſoules, ſaith he, remaine how from all aeternity <note place="margin">
+                        <hi>Marc. Antonin. l.</hi> 4. <hi>de vitaſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. n.</hi> 13.</note> could the aire hold them, or how the earth retaine their bodies? As here the bodies after they have lyen a while within the earth are changed, and being diſſipated, leave ſpace for other carkaſſes; ſo ſoules carried up into the aire, after they have beene there ſometime, whi<g ref="char:EOLhyphen"/>ther kindled, or liquefied, are conjoined to the common <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, that is unto the originall mind, or great ſoule of the world.</q> Thus he as if he had ſaid with <hi>Solomon</hi> the ſpirit returnes to God that made it, for the great ſoule of the univerſe, or the originall minde of all, is nothing elſe. <hi>Horace</hi> conſenteth, ſaying, <hi>Melior pars noſtri vi<g ref="char:EOLhyphen"/>tabit lebitinam.</hi> and <hi>Tacitus in vit. Jul. Agric. Siquis piorum manib. locus: ſive ſapientib. placet, non cum corpore extinguuntur magnae ani<g ref="char:EOLhyphen"/>mae, placide quieſcas.</hi> If to the ſpirits of the pious there be any place remaining, if great ſoules be not together with their bodies extin<g ref="char:EOLhyphen"/>guiſhed, mayeſt thou reſt in peace. To theſe <hi>Ovid</hi> ſubſcribeth <hi>Meta<g ref="char:EOLhyphen"/>mor. l. ult.</hi>
+               </p>
+               <lg>
+                  <l>Cum volet ille dies, quae nil niſi corporis hujus</l>
+                  <l>Jus habet, incerti ſpatium mihi finiat avi;</l>
+                  <l>Parte tamen meliore mei ſuper alta perennis</l>
+                  <l>Aſtra ferar nomen<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> erit indelebile noſtrum.</l>
+               </lg>
+               <lg>
+                  <l>Come when it will my Deaths uncertaine hower</l>
+                  <l>Which of this body only hath a power,</l>
+                  <l>Yet ſhall my better part tranſcend the sky,</l>
+                  <l>And my immortall name ſhall never die.</l>
+               </lg>
+               <p>The ſame doctrine is conſtantly taught by <hi>Pythagoras</hi> as appeares by his doctrine of <hi>Metempſycoſis</hi> and alſo both <hi>Jamblichus</hi> &amp; <hi>Porphy<g ref="char:EOLhyphen"/>ry</hi> in their ſeverall hiſtories of his life do witneſſe of him, as alſo <hi>Dio<g ref="char:EOLhyphen"/>genes Laërtius.</hi>
+               </p>
+               <p>I conclude this Jury with the judgement of <hi>Macrobius,</hi> who <hi>c.</hi> 14. <note place="margin">
+                     <hi>Macrob. in ſom. ſcipio. c.</hi> 14.</note> 
+                  <hi>in ſomnium Scipionis</hi> after he had recited ſundry and differing fancies of ſeverall Philoſophers touching the nature of the ſoule, concludes,
+<pb n="14" facs="tcp:29605:12"/>
+as followeth. <q>
+                     <hi>Obtinuit tamen, non minus de incorporalitate ejus, quàm de immortalitate ſententia.</hi> Nevertheleſſe, the opinion touch<g ref="char:EOLhyphen"/>ing the incorporeity of the ſoule, as well as touching the immortali<g ref="char:EOLhyphen"/>ty of it hath beene prevalent.</q> Againſt all theſe, therefore it im<g ref="char:EOLhyphen"/>portes little that <hi>Dicaearchus Meſſenius</hi> a Peripatetique Philoſopher &amp; Scholler to <hi>Ariſtotle,</hi> or as <hi>Ariſtoxenus</hi> ſhould, as <hi>Cicero</hi> relateth in the firſt of his <hi>Tuſculanes</hi> and in his ſecond of his <hi>Academiques,</hi> hold and defend it to be mortall, or that both he, and as <hi>Cicero</hi> reporteth out of him, another more ancient Philoſopher, by name <hi>Pherecrates,</hi> one of the linage of <hi>Deucalion,</hi> did thinke there was no ſoule at all, neither in man, nor beaſt, and foraſmuch as concerneth the ſame <hi>Dicaearchus,</hi> 
+                  <note place="margin">
+                     <hi>Sextus Emp. l.</hi> 2. <hi>Hypotyp. c.</hi> 5. <hi>Fr. Picus l.</hi> 1. <hi>de Doctrin. vanit. Gentium<g ref="char:punc">▪</g> c.</hi> 14.</note> we read in <hi>Sextus Empericus</hi> and <hi>Tertullian,</hi> as alſo in <hi>Joh. Fr. Picus</hi> of <hi>Mirandula,</hi> he was of the ſame opinion: for there is nothing ſo ab<g ref="char:EOLhyphen"/>ſurde which ſome one Philoſopher, or other hath not maintained. <hi>Sextus Empericus</hi> was of the ſame minde alſo as he <hi>l. adv. Mathema<g ref="char:EOLhyphen"/>ticos</hi> acknowledgeth.</p>
+               <p>But now by the way, I note how ſublimely moſt of theſe heathen wiſe men did Philoſophize, when as they conclude the ſoules originall to be from heaven, and how much above the low pitch of certaine depreſſed ſpirits of this age, who after their continuall poring into objects materiall, and raking in the mudde of corruptible things, will needs draw out of that dirte the nobler ſubſtances of our ſoules and natures intellectuall by aſſigning for them no more perfect principle then generation, of which number this ſorry author againſt whom we now deale, is one, yea and one alſo of the groſſeſt that ever medled a<g ref="char:EOLhyphen"/>bout this buſineſſe, as by his demeanour in it doth appeare. <hi>Hiero<g ref="char:EOLhyphen"/>cles</hi> in expreſſe termes determines ſaying, It ſeemes ſaith he, that God himſelfe produced the ſeverall ſoules of every particular man and left the ſoules of Beaſts to be produced by the hand of nature, according to the judgements of <hi>Plato</hi> and of <hi>Timaeus</hi> the Pythagorean; ſo he <hi>com. in carm. aurea Pythagoreae pag.</hi> 133. of the Greek and Latine edition of <hi>Paris Anni</hi> 1583.</p>
+               <p>I know well, that amongſt theſe ancients the word <hi>Anima,</hi> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is aequivocall, becauſe ſometimes it is taken only for an exhalation of purer bloud, ſometimes againe for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Mens, or Animus,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by which words the ruling, the ſpirituall, and intellective, and laſtly the immortall part of man is ſignified; and not any materiall or fading ex<g ref="char:EOLhyphen"/>halation, which here by the way I note for the avoyding of excepti<g ref="char:EOLhyphen"/>ons and miſtakings.</p>
+               <p>Let us come now unto our Author who would gladly father upon <hi>Ariſtotle, Nemeſius,</hi> and <hi>Ambroſius Paraeus,</hi> that the ſoule is all the
+<pb n="15" facs="tcp:29605:12"/>
+externall and internall faculties of man jointly conſidered. Which charge is ſtrange, ſeeing it is well knowne that <hi>Ariſtotle</hi> defines the ſoule after no ſuch way, but ſaith it is <hi>Actus corporis Organici,</hi> and a ſubſtance by which we live, have ſence, and do underſtand; and if a ſubſtance then can it not receive intenſion, and remiſſion, as every young Logician hath learned. But let us heare further.</p>
+               <p>All the faculties of man are mortall, as well thoſe peculiar to man, as thoſe other which are common to him with beaſts, and if all thoſe with his corpulent matter compleating man be proved mortall, then the invention of the ſoule upon that ground vaniſheth, which thus I prove.</p>
+               <p>All elementary compoſitions or temperatures are mortall. But mans faculties, <hi>a minore ad majus,</hi> are temperatures. <hi>Ergo</hi> mortall.</p>
+               <p>The <hi>minor</hi> is denyed, namely that all mans faculties be temperatures; for, to inſtance, neither the underſtanding nor the will be temperatures, and yet are principall faculties of man.</p>
+               <p>He proves the minor. That which is ſubject to intenſion and re<g ref="char:EOLhyphen"/>miſſion is a temperature.</p>
+               <p>But ſuch are all mans faculties, yea thoſe of reaſon, conſideration, ſcience &amp;c. All that diſtinguiſheth man from beaſt are augmented by learning, education &amp;c. leſſened by negligence, idleneſſe, and quite nullified by madneſſe. <hi>Ergo.</hi>
+               </p>
+               <p>Of this gallant argument there be but two propoſitions falſe, that is to ſay, both the <hi>major</hi> and the <hi>minor</hi> of it, and then what kinde a concluſion it hath, we may eaſily judge. For firſt, it is falſe that e<g ref="char:EOLhyphen"/>very thing is a temperature, univerſally ſpeaking, which is ſubject to intenſion and remiſſion, but ſuch things only as be ſubject unto them <hi>per ſe</hi> and by their owne nature, and not by accident onely, and this ap<g ref="char:EOLhyphen"/>peares in the very buſineſſe now in agitation betweene us; for a great<g ref="char:EOLhyphen"/>er clerke then this man is will hardly ever prove that the augment, or diminution, which is, found in the acts of knowledge, do ariſe from a<g ref="char:EOLhyphen"/>ny internall alteration in the intellective faculty, and not contrary wiſe from the difference, advantage, and alteration in the organ, or the ſpecies and formes intentionall: for this reaſon a man may underſtand better then a childe, not becauſe his faculty intellective is better then a childes, namely for betterneſſe in the organe; alſo a learned man bet<g ref="char:EOLhyphen"/>ter then an illiterate, and a diligent then a negligent, becauſe thoſe may have acquired more ſpecies, or formes intentionall, or elſe have kept them better then theſe other that be illiterate and negligent, and not for any intenſion, or remiſſion in the faculty<g ref="char:punc">▪</g> This I ſay may be reaſon of the difference and is likely ſo to be, and not any variation in the
+<pb n="26" facs="tcp:29605:13"/>
+doe uſually fetch them, which how more or leſſe valid or perſpicuous they may ſeeme, yet have they beene held for good by the wiſeſt Phi<g ref="char:EOLhyphen"/>loſophers both Heathen and Chriſtian, and to be concluding. But how<g ref="char:EOLhyphen"/>ſoever that be, the verity it ſelfe hath beene counted certaine and evi<g ref="char:EOLhyphen"/>dent, inſomuch as <hi>Aureolus</hi> himſelfe although he found difficulty in ſundry of the arguments, yet did he not doubt to ſay, ſpeaking of the ſoules immortality, <hi>in</hi> 2 <hi>Sent. diſt.</hi> 19. <q>This doctrine of faith is to be held undoubtedly, and it is the common conception of the minde, <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ureols in</hi> 2 <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ent. Diſt.</hi> 19.</note> and a verity evident of it ſelfe, though to give a reaſon for it it is not ſo eaſie.</q> So <hi>Aureolus,</hi> with whom conſenteth <hi>Cicero</hi> when as he ſaid, as hath beene before alleadged out of him, that it is the conſent of all Nations. <q>Now, ſaith he, if the conſent of all be the voice and ver<g ref="char:EOLhyphen"/>dict of Nature, then are we to thinke the ſame.</q> Beſides how could ſo many Heathen Philoſophers have acknowledged unanimouſ<g ref="char:EOLhyphen"/>ly this doctrine of immortality otherwiſe then by the light of nature and common reaſon? out of which it is plaine, that naturall reaſon doth teach us this verity. It followeth then, that by <hi>Ciceroes</hi> judgement whatſoever the arguments be, the doctrine it ſelfe is not onely true but alſo certaine and evident; which thing may very well be, for there be many truths which are not proved eaſily or evidently, yea perad<g ref="char:EOLhyphen"/>venture are not to be proved at all, but be things moſt evident and in<g ref="char:EOLhyphen"/>demonſtrable; nature and the underſtanding acknowledging and em<g ref="char:EOLhyphen"/>bracing them as legitimate, without any further argument then her owne light; and againe, many things be knownely falſe which na<g ref="char:EOLhyphen"/>ture rejecteth as ſpurious and falſe, although ſhe be not able to demon<g ref="char:EOLhyphen"/>ſtrate that they involve any repugnancy or contradiction; ſo that in divers verities we are to rely laſtly upon <hi>Tertullian's Teſtimonium ani<g ref="char:EOLhyphen"/>mae.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Mans being by Procreation no argument of his ſoules mortality.</hi>
+               </head>
+               <p>THat mans ſoule muſt have the being by generation, becauſe the man himſelfe hath his being by it, is no good conſequence; and the reaſon why ſome have beene deceived in judging it to be a good one or that of due his ſoule ought to be generated as well as the ſoules of Beaſts, hath beene partly a falſe apprehenſion what the true nature and eſſence of generation was, and partly alſo what was the perfection and eſſence of man.</p>
+               <p>As for the firſt miſpriſion, it was that generation was not onely to
+<pb n="27" facs="tcp:29605:13"/>
+make the <hi>compoſitum</hi> or whole to be, but alſo the parts, by the confer<g ref="char:EOLhyphen"/>ring unto them not onely the being parts but alſo the ſimple being, or the being Entities, that is to ſay, not onely the formality of them, but even the naturality; which conceipt of theirs is a falſe conception &amp; a<g ref="char:EOLhyphen"/>gainſt all reaſon and principles of Philoſophy. Which clearely teacheth us that it is man which is procreated or made by generation, and not his ſoule, his body is made or framed by it, and not the matter of which it is compoſed. For it is a received maxime and moſt true, touching the power of naturall cauſes, and no farther. <hi>Quòd ex nihilo nihil fit;</hi> Of nothing there is nothing to be made: out of which it followes, that before generation both matter and formes of all corporeall things muſt have before hand a being in <hi>rerum natura,</hi> at leaſt an incompleate one, and cannot poſſibly have it from generation; wherefore by the worke of generation they are not made, or receive any new abſolute entity, but onely are collected, ordered, and at laſt ſubſtantially linked and u<g ref="char:EOLhyphen"/>nited one with another, which union is not by a ſole approximation, contiguity, or <hi>juxta</hi> poſition, that I may ſo ſpeake of one of them with another, as it falls out in artificiall compounds, where colours for ex<g ref="char:EOLhyphen"/>ample, though they be not pictures, yet being thus or thus choſen, for<g ref="char:EOLhyphen"/>med and united, make up ſuch or ſuch a picture; but it is by a continui<g ref="char:EOLhyphen"/>ty or an inward and ſubſtantiall knot which is in our power better to conceive then explicate, and yet not to conceive fully neither, for theſe principles of generation are natures <hi>arcana,</hi> her darkeſt and moſt ſecret miſteries, which like the ſprings of <hi>Nilus</hi> ſhe hath hidden from our eyes, as if our ſeeing of them were a prophanation, and to let us know that ſhe is our mother, and we but ignorant children and ſuch who muſt not be made much acquainted with our originall.</p>
+               <p>Againe, if the parts alſo muſt be generated, I aske whether theſe parts be ſimple or compound entities? If ſimple, they cannot be gene<g ref="char:EOLhyphen"/>rated, but muſt have their being by creation; if compound, then if they muſt be generated, the parts alſo of which thoſe parts are made muſt in like ſort be generated; and ſo either <hi>in infinitum,</hi> or elſe at leaſt, till we come to ſome parts which are ſimple and ingenerable; by which diſcourſe it followes that no parts at all, neither corporeall nor ſpiritu<g ref="char:EOLhyphen"/>all, neither in man nor beaſts, doe receive their being by generati<g ref="char:EOLhyphen"/>on.</p>
+               <p>Touching the ſecond miſpriſion or originall of errour and miſtak<g ref="char:EOLhyphen"/>ing, note, that although it belong to the perfection of an Animal to generate another like it ſelfe, yet is it a perfection onely to Animals and Vegetables, and to them alſo not ſimply but onely <hi>quatenus corrup<g ref="char:EOLhyphen"/>tibilia,</hi> ſo farre forth as they are corruptible, generation being inſtitu<g ref="char:EOLhyphen"/>ted
+<pb n="28" facs="tcp:29605:14"/>
+onely for reparation of decayes, and to reëdify the ruines of cor<g ref="char:EOLhyphen"/>ruption; ſo that whereſoever there be more ruines, in that place more reedification is needfull. In creatures therefore irrationall where there is a corruption more large then in the rationall, a fuller manner of ge<g ref="char:EOLhyphen"/>neration is neceſſary, becauſe there is a greater decay in the forme in the one then in the other, foraſmuch as the formes of irrationall crea<g ref="char:EOLhyphen"/>tures be by corruption disformalized and diſſipated into their atomes, which diſſipation if the formes were ſpirituall needed not; and againe, if indiviſible were a thing impoſſible. Therefore generation is to per<g ref="char:EOLhyphen"/>forme more in one then in the other, and yet ſufficiently in both, accor<g ref="char:EOLhyphen"/>ding to their ſeverall exigences. Seeing then generation is nothing but <hi>productio viventis a vivente in ſimilitudinem naturae;</hi> a production of one living thing by another in a ſimilitude of nature; according to the definition thereof, whatſoever agent ſhall doe this that ſame is tru<g ref="char:EOLhyphen"/>ly and univocally ſaid to generate, how much more or leſſe ſoever it doe beſides this. A man therefore producing another man by the one<g ref="char:EOLhyphen"/>ly compoſing and uniting his two eſſentiall parts, body and ſoule, ma<g ref="char:EOLhyphen"/>keth that to be a man which before was none, and doth truly generate a man, although he no more produce his ſoule, then he does the matter of which his body is formed and made; for there can be no more neceſ<g ref="char:EOLhyphen"/>ſity for the production of the one then of the other. And this one in<g ref="char:EOLhyphen"/>ſtance of matter will evidently deſtroy our adverſaries argument taken from procreation.</p>
+               <p>Neither is it, as <hi>Argenterius</hi> well declareth, any imperfection in man not to generate ſo fully as other Animals doe, but rather a great perfe<g ref="char:EOLhyphen"/>ction in him; for as it is a perfection in beaſts to generate totally as much as generation can doe, becauſe they are toally corruptible as much as in nature it is poſſible, and as in Angels it were an imperfecti<g ref="char:EOLhyphen"/>on to generate, becauſe they by their nature are totally incorruptible; ſo in man it is a perfection to generate as Angels doe not doe, and alſo not to generate ſo totally and fully as brute beaſts doe generate, be<g ref="char:EOLhyphen"/>cauſe he is as the Philoſopers rightly and aptly terme him, <hi>Horizon mundi &amp; nexus naturae utriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>;</hi> as it were, the Horizon of the world and that which knits corporeall and ſpirituall natures together by his participating with them both, and not fully agreeing with either: not being ſo corruptible as beaſts, nor ſo incorruptible as Angels or pure In<g ref="char:EOLhyphen"/>telligences. By which it followes, that his manner of generation is in ſomething to agree with the non generation of Angels; and againe, ſomething with the totall generation of creatures irrationall, that ſame generation of his being truly and univocally a generation, becauſe he is univocally and truly an Animal, and yet not totally ſo, becauſe in his
+<pb n="29" facs="tcp:29605:14"/>
+immortall ſoule, he reſembles the incorruptibility of Angels or Intelli<g ref="char:EOLhyphen"/>gences. For <hi>Modus generandi ſequitur modum eſſendi: &amp; ideo quod partim eſt immortale &amp; partim non, partim etiam gener are debet &amp; par<g ref="char:EOLhyphen"/>tim non.</hi> That which is not wholly mortall doth not wholly generate, and therefore neither man nor beaſt doth generate wholly, yet a beaſt more wholly then a man.</p>
+               <q>
+                  <l>
+                     <hi>Conſtat aeternâ poſitum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> lege eſt,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>t conſtet genitum nihil.</hi>
+                  </l>
+                  <l>Eternall lawes doe ſo ordaine</l>
+                  <l>That nothing gotten ſhall remaine.</l>
+               </q>
+               <p>Wherefore if ſome of him after corruption doe remaine, there can be no neceſſity that all of him ſhould be made by generation; nay ſeeing ſomething more of him, namely the forme after corruption, doth re<g ref="char:EOLhyphen"/>maine incorrupted then there doth of Beaſts, for of beaſts the matter onely remaines, ſomething leſſe of him is to be produced by generati<g ref="char:EOLhyphen"/>on then there is of them, though all of neither. Whoſoever therefore ſhall affirme that a creature intelligent like man ſhould generate ano<g ref="char:EOLhyphen"/>ther of his owne kind as totally and adequatly as one beaſt does gene<g ref="char:EOLhyphen"/>rate another, doth not ſpeake like a Philoſopher, and beſides doth un<g ref="char:EOLhyphen"/>juſtly diſparage and diſgrace his, owne linage, and violates the rights of his creation.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>A ſolution of the Adverſaries objections, together with ſome others of Doctor</hi> Daniel Sennertus.</head>
+               <p>THeſe former <hi>notandums</hi> having beene premiſed, we need not dwell long upon anſwering of objection, for by them the way is opened already, and that which before hath beene delive<g ref="char:EOLhyphen"/>red will not need any more then application.</p>
+               <p>
+                  <hi>Object.</hi> 1. Whole man is generated by man, therefore all his parts, both ſoule and body, and if both be generated then both are mortall.</p>
+               <p>
+                  <hi>Anſw.</hi> Whole man is generated by man, I grant it. Therefore both ſoule and body are generated. I diſtinguiſh. That both ſoule and body are made parts of man by generation, and a creature produced like in nature to him that generates; I alſo grant and doe affirme that by do<g ref="char:EOLhyphen"/>ing of this onely the compleat act of generation or procreation is per<g ref="char:EOLhyphen"/>formed according to the received definition of generation before ex<g ref="char:EOLhyphen"/>hibited in the Chapter precedent. But that both ſoule and body muſt
+<pb n="36" facs="tcp:29605:15"/>
+be, therefore made and have their Entities or beings given them by procreation; that conſequence I deny as falſe and abſurde, yea ſo ab<g ref="char:EOLhyphen"/>ſurde as it ſuffers a thouſand inſtances to the contrary in all ſorts of A<g ref="char:EOLhyphen"/>nimals. For example, a whole horſe is generated both matter and forme; and yet his matter did not receive any being by generation, and ſo it falls out in other creatures. If then it be not neceſſary that the matter receive the being by procreation, though the whole Animal conſiſting of matter and forme be truly generated, what reaſon can there be why to the generation of the whole Animal, a new being of the forme, by vertue of procreation ſhould be neceſſary? or why can one be neceſſary to generation, when as we ſee evidently the other is not? or why againe ſhould we exact the new production of either of them by generation, when without any ſuch act the definition of ge<g ref="char:EOLhyphen"/>neration <note place="margin">See Argenter. com. in Aphor. 1. Hippocr.</note> is fulfilled, and agrees both unto the generation of beaſts, whoſe matter is not generated, and to the generation of man, whoſe forme is not generated, any more then his matter is? By force of this ſolution all his imaginary abſurdities which he labours to faſten upon the non procreation of the ſoule, doe of themſelves diſſolve.</p>
+               <p>If the ſoule, ſaith he, be infuſed, then Chriſt did not take whole hu<g ref="char:EOLhyphen"/>manity from the ſeed of the woman.</p>
+               <p>
+                  <hi>Anſw.</hi> He received from the ſeed of the woman as much of the humanity as was to be received thence, and that which he tooke did not come unto him by procreation, nor was it ſo to doe. As for the fourteenth to the <hi>Hebrewes</hi> which he cites for his purpoſe, our anſwer to it is, that it is not found in our bookes, neither Greeke nor Latine, neither do the Editions of <hi>Raphelengius</hi> or <hi>Elzevir</hi> contain any more Chapters than thirteen.</p>
+               <p>If ſaith he, we conſiſt of ſoule and body, and are not men without both, and receive not our ſoules from him, (he meanes the Generatour as I ſuppoſe) then <hi>Adam</hi> is the father of no man, nor Chriſt the Son of man, becauſe his manhood's conſtitutive part, even that which ſhould make him a man, could not be by the ſeed of the woman, and a man is as much a father of fleas and lice, which receive their matter from him, as of his children.</p>
+               <p>
+                  <hi>Anſw.</hi> Surely fleas and lice, whence ſoever they receive their matter, do not proceed from him in likeneſſe of Nature; as by the defini<g ref="char:EOLhyphen"/>tion, they if they were generated by man, ought to do. Moreover, they are not generated by man, but of him, neither is he the agent but the patient, and ſo is of theſe vermin no generatour at all proper, or impro<g ref="char:EOLhyphen"/>per. Secondly, men do receive their ſoules by force of generation, al<g ref="char:EOLhyphen"/>though they be not generated, and ſo, notwithſtanding this non-gene<g ref="char:EOLhyphen"/>ration
+<pb n="37" facs="tcp:29605:15"/>
+of the ſoule, <hi>Adam</hi> might truly and univocally be the father of all men; and alſo the ſoule of Chriſt might come by the ſeed of the woman, although it were not made or procreated by it.</p>
+               <p>If the ſoule (addes he) be infuſed after the conception, then there is growth before there is life, which is impoſſible, for the ſoule is made, the vegetative as well as the motive, ſenſitive, or rationall part.</p>
+               <p>
+                  <hi>Anſw.</hi> I grant, that before the infuſion of the ſoule there may be vegetation, and this by the ſole virtue of the ſperme; but I deny that therefore there be in man more ſoules than one, that is, than the ratio<g ref="char:EOLhyphen"/>nall: for this ſame force of vegetation which is in the ſeed holdeth it ſelfe upon the part of the matter onely, and doth not performe the of<g ref="char:EOLhyphen"/>fice of a ſoule, or forme, the ſubſtance and operation thereof, being no more than to faſhion an organicall body and to make it fit for the re<g ref="char:EOLhyphen"/>ception of the ſoule and the union with it, after whoſe infuſion both the vitall and animal ſpirits do but ſerve as inſtruments to it, and to accompliſh the body in making it, to be ſo perfectly organicall as the eminency of a rationall ſpirit, above other formes, doth require to have it.</p>
+               <p>If the ſoule be not generated but infuſed into a dead body, then, ſaith he, it is lawfull to be Nigromancer; for Nigromancy is nothing but putting a ſpirit into a dead body, and ſo it is imitation of God, and God the onely Nigromancer, and all the men in the world but Nigromanticke apparitions, whoſe ſpirits when they have done the worke for which they were put into the bodies, deſert them as other conjured Ghoſts do.</p>
+               <p>
+                  <hi>Anſw.</hi> See the ſhallowneſſe of this man who can neither ſpeak right, nor reaſon with common ſenſe and probability. He calls Necro<g ref="char:EOLhyphen"/>mancy conſtantly Nigromancy, and he ſuppoſes that a ſoule in a dead body makes a living man, and can exerciſe vitall actions in it, or acti<g ref="char:EOLhyphen"/>ons of life, and ſo, according to his groſſe capacity, if the ſoule be in<g ref="char:EOLhyphen"/>fuſed God muſt be a Necromancer and men but Necromantique appa<g ref="char:EOLhyphen"/>ritions; for this <hi>Ignoramus,</hi> it ſeemes, knowes no difference between a ſoule and body that are united and thoſe that are not united, but to<g ref="char:EOLhyphen"/>gether onely, nor between a body living by the virtue of the ſpirit, and by virtue thereof doing vitall actions, and another which is onely moved and inhabited by a ſpirit, without any union with it or partici<g ref="char:EOLhyphen"/>pation of life. But, ſuppoſing all were one, yet were it not lawfull to be a Necromancer, becauſe nothing at all be it never ſo good, is to be done by ſuperſtitious actions, or by making any recourſe unto the De<g ref="char:EOLhyphen"/>vill, and acknowledgement of his power by any dependency of him whatſoever, more or leſſe.</p>
+               <p>
+                  <pb n="38" facs="tcp:29605:16"/>
+It is granted, ſaith he, that the body conſidered meerly ſenſitive cannot ſin and is but an inſtrument, or as the pen in the hand of the writer. Therefore if the ſoule be infuſed, then of neceſſity, the im<g ref="char:EOLhyphen"/>mortall thing and not our mortall fleſh is the authour of all ſin, and ſo God's immediate hand the cauſe of all ſin.</p>
+               <p>That the body is onely an inſtrument of the ſoule, is falſe, for it is a <note place="margin">
+                     <hi>See Solo</hi> of this in 4. <hi>d.</hi> 43. <hi>q.</hi> 1. <hi>a.</hi> 2. <hi>Rat.</hi> 3.</note> living co-agent with it, and a partaker both in the good and evill acti<g ref="char:EOLhyphen"/>ons, and ſo is both rewardable and puniſhable with it; whether in the mean time it be created or generated, for this variation makes no difference in this matter of merit or demerit; neither doth the creati<g ref="char:EOLhyphen"/>on of the ſoule make God the authour of ſin, more than the generati<g ref="char:EOLhyphen"/>on of it, that is to ſay, not at all, for ſtill the ſoule and body are au<g ref="char:EOLhyphen"/>thours of their own actions, and the deformity ariſeth from their miſ<g ref="char:EOLhyphen"/>demeanour, and not from God's creation or concurrence.</p>
+               <p>Doctour <hi>Sennertus,</hi> although he admit not of any mortality in the ſoule, yet he holds it probable, that it comes by procreation, and that from the firſt inſtance of conception, the ſeed is animated with the ra<g ref="char:EOLhyphen"/>tionall ſoule: which Doctrine of his, by his leave, inferres mortality: for whatſoever is generated, is corruptible, and is to go out, according to the ordinary Lawes of Nature, at the ſame gate of according to the ordinary Lawes of Nature, at the ſame gate of corruption at which it entred in. Neither is it true, or likely, or laſtly, any way phi<g ref="char:EOLhyphen"/>loſophicall, to ſay as he doth <hi>Hypomn.</hi> 4. <hi>c.</hi> 10. that nothing created is immortall by the principle of Nature, but onely by the free will or gift of God; becauſe as it is amongſt bodies, ſome are very durable, as Marble and Cedar, ſome by and by corrupted, as flowers and fruits, even out of the ſeverall natures of their compoſition which God hath appointed for them, and not out of the free will of God immediate<g ref="char:EOLhyphen"/>ly, without any further relation; ſo in like ſort, ſome ſubſtances are perpetuall out of the nature of their being, as ſpirituall ſubſtances and bodies that are ſimple and unmixt, other ſome, out of their own Na<g ref="char:EOLhyphen"/>tures, corruptible, as thoſe that are mixt and made up of Elements, which as by ſome naturall agents they were knit up together, ſo by the operation of other ſome they are diſſolvable. Soules then if genera<g ref="char:EOLhyphen"/>ted are compounds, and if ſo, may be uncompounded by the agen<g ref="char:EOLhyphen"/>cy and operation of cauſes naturall; wherefore to ſeek an immortali<g ref="char:EOLhyphen"/>ty onely from a decree extrinſecall, without any foundation in their naturall beings, ſeemes neither to be philoſophicall, nor true; where<g ref="char:EOLhyphen"/>fore the immortality of Soules and Angels is not to be reared upon this weak foundation, according to which a Flye may be as much immor<g ref="char:EOLhyphen"/>tall as an Angel, one by Nature, according to <hi>Sennertus,</hi> having no preheminence over the other the free determination of God for
+<pb n="39" facs="tcp:29605:16"/>
+their perpetuall conſervation being equally applicable to either of them.</p>
+               <p>Conformably to this poſition of his he will needs have the ſperme alwaies animated with a reaſonable ſoule; but then conſider how ma<g ref="char:EOLhyphen"/>ny <note place="margin">
+                     <hi>Sennertus Hy<g ref="char:EOLhyphen"/>pomn.</hi> 4. <hi>ca.</hi> 10. <hi>&amp; lib. de con<g ref="char:EOLhyphen"/>ſenſ. Chymic<g ref="char:punc">▪</g> cum Ariſt. &amp; Galeno c.</hi> 9.</note> more ſoules are caſt away without any bodies organicall and hu<g ref="char:EOLhyphen"/>mane, then are actuated and preſerved by bodies. I aske what muſt become of theſe innumerable ſoules? muſt they periſh, or have bodies made them at the Reſurreection? neither of theſe two can be admit<g ref="char:EOLhyphen"/>ted without great temerity and abſurdities.</p>
+               <p>Beſides this, we know God did not inſpire <hi>Adam</hi> with a living ſpirit while he was a lumpe of clay, but when he had a face and a body that was organicall, and not before. Againe, why does the ſoule depart from the body, but onely becauſe it leaves to be organicall? why then, or with what probability can we imagine the ſoule is in the in<g ref="char:EOLhyphen"/>organicall ſperme? certainly, with none at all.</p>
+               <p>The winde that did drive <hi>Sennertus</hi> upon this inhoſpitall ſhoare was the neceſſity of aſſigning a <hi>vis formatrix,</hi> or a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is to ſay, an able architect, or former of humane body, which though moſt acknowledge to be the ſeed, yet <hi>Sennertus</hi> ſees not how this can be, unleſſe it ſhould be animated with the ſoule; his reaſon is, becauſe the ſoule onely is to build an houſe fit for it ſelfe to inhabit. But this reaſon of his is not urgent; nay more, it is not likely; for egges and young birds do not build their own neſts, but the old ones for them; ſo that it muſt, by this account, be the fathers office to erect this new building and not the childes. But, how, ſayes he, can the father do this? eaſily and well, by ſending his ſperme as his deputy and officer, <note place="margin">
+                     <hi>Argent. com in</hi> 1, <hi>Aphor. Hipp.</hi>
+                  </note> to performe that duty, as <hi>Argenterius</hi> alſo teacheth; which entity hath derived to it from the generatour ſo much naturall ſtrength and cunning as to make a ſufficient architect for the effecting of this work, and all this may be done with the only forme of ſeed, without any animation of it with a ſoule. Thus, it is likely, that the Acorne, for example, without any more forme than of an Acorne, collects fit par<g ref="char:EOLhyphen"/>ticles out of the elements and materials about it, and by a virtue deri<g ref="char:EOLhyphen"/>ved from the tree on which it grew, formes out and faſhions the body of an Oake: and for the effecting of this worke the ſeed participates tmch of the nature of the tree or plant, and hath ordinarily much of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſame virtue: wherefore in this abſtruſe queſtion or quere that we may ſay ſomething which is likely, and hath for the truth thereof pro<g ref="char:EOLhyphen"/>bable examples and inſtances in Nature, we do conceive that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or forming virtue, is the ſeeds own forme excited and aſſiſted by the breeding, cheriſhing, and connaturall warmth of the maternall body,
+<pb n="40" facs="tcp:29605:17"/>
+which doth environ it; as in the procreation of birds it ſeemes to be, where the <hi>ſemen</hi> of the Cocke being cheriſhed and ſtirred up by the ambient and incumbent warmth of the Hen, is that which changes the egge, and formes it into the ſhape of the bird from whence it came. Neither is it probable, that in ſo ſmall a <hi>coagulum</hi> or ſeed, which came from the Cocke the ſoule or eſſence of a Cocke is re<g ref="char:EOLhyphen"/>ſident.</p>
+               <p>Now, whereas he tels us, that by the bleſſing granted to all Creatures by the Creatour of them in theſe words, <hi>Increaſe and multiply,</hi> force was given to every ſoule to multiply another: we confeſſe it to be true; yet this not to be done by creating of the younger by the elder ſoules, or by the giving of them new entities; but rather by doing ſome other act out of which theſe formes ſhould connaturally follow, as materiall formes they do by a reſultancy, and immateriall by crea<g ref="char:EOLhyphen"/>tion from a higher cauſe, which creation is to follow, and is due by a regular ordination &amp; exigence of Nature; and ſo they may truly be ſaid to be given and communicated, though not made, by the force of ge<g ref="char:EOLhyphen"/>neration. And this is the true <hi>vis prolifica,</hi> and not that other which <hi>Sen<g ref="char:EOLhyphen"/>nertus</hi> feignes unto himſelfe, by which he will have one humane ſoule to beget another, and on the inſtant to become with childe of it, no bodie knowes how; neither by what particular operation, nor from what Mine it ſhould be digged. For this manner of ſpeaking makes ſhew rather of ſome empty Magicke, than of ſound Philoſophy, and ſeemes altogether as hard and impoſſible as the eduction of them out of the potentiality of the <hi>materia prima,</hi> when underſtood in that ſenſe in which he himſelfe impugnes it.</p>
+               <p>If the Parents (objecteth <hi>Sennertus)</hi> do not give the ſoule which is the forme of man, they do not generate the man; but for certaine, they do generate the man, therefore they give the ſoule alſo; unleſſe they communicate the ſoule, like ſhould not generate his like. So he <hi>Hypomn.</hi> 4. <hi>cap.</hi> 11. In briefe, I anſwer, that the Parents do give and communicate both Forme and Matter, but that worke they may well do without the making or the producing either of them. It is certain they give the Matter, and it is as certain they do not produce it, where<g ref="char:EOLhyphen"/>fore the ſame may be ſaid of the Forme without prejudice to the eſ<g ref="char:EOLhyphen"/>ſence of generation, or which is all one, of one like or <hi>ſimile</hi> produ<g ref="char:EOLhyphen"/>cing of another. And that there is true generation, without produ<g ref="char:EOLhyphen"/>cing either part, appeareth plainly; for Death which is the oppoſite to generation, and deſtroyes what the other made, will ſhew us what generation is; but Deach is onely a diſſolution of parts united, and not a deſtruction of them; it is deſtructive, not of the matter or forme,
+<pb n="41" facs="tcp:29605:17"/>
+but of the man: for do but divide a mans ſoule and body and he is de<g ref="char:EOLhyphen"/>ſtroyed, and remaines not a man any longer, but loſeth what he had got by generation, that is to ſay, by generation he got to be a man, and by dying he loſes it. In fine, as <hi>Argenterius</hi> rightly anſwereth, Generation is not of the parts, but of the <hi>compoſitum.</hi>
+               </p>
+               <p>He addes, if the ſperme, from the firſt inſtant, be not animated, and <note place="margin">See him in 1. <hi>Aphor. Hip.</hi>
+                  </note> the generatour dye in the <hi>interim</hi> before the animation, it might be ſaid, that a dead man did generate. I deny the conſequence, becauſe that Parent while he was living did that act, by virtue of which all the reſt (as their turnes came) did follow, and that one and firſt act was generation, and not the ſubſequent. As for example, he is ſaid to make a fire who firſt puts the fire to the fewell and kindles it, though all do not burne of a great while after, becauſe all the reſt did follow in virtue of the firſt act.</p>
+               <p>Thus we ſee that the arguments of <hi>Sennertus</hi> were not ſo urgent and weighty as to be able to hinder a wiſe Chriſtian Philoſopher, as he was, from relinquiſhing this tenet of his, and from piouſly ſubſcri<g ref="char:EOLhyphen"/>bing his <hi>Pareamus,</hi> by which act he left behinde him an example wor<g ref="char:EOLhyphen"/>thy of great praiſe, and of all true ſtudents to be imitated. I have ad<g ref="char:EOLhyphen"/>ded to the Authour's Objections, whom I undertook to impugne, theſe out of <hi>Sennertus</hi> who is a Writer of great worth and ſubſtance, to the end that by occaſion of his difficulties, the matter in hand might be explicated with more ſatisfaction, and for mine own ſatiſ<g ref="char:EOLhyphen"/>faction alſo, who was weary with fighting with a ſhadow.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>The Adverſaries reſurrection of Beasts exploded, together with a Concluſion of the Worke.</hi>
+               </head>
+               <p>IT is uſually ſaid, that one folly brings on another, and ordinarily one worſe than it ſelfe, and ſo it fals out with this wretched man againſt whom we deale at this preſent, who after his groſſe errour of mans totall mortality, fals into one which is much groſſer, yea, ſo abſurd, as it is to be numbred amongſt the moſt ridiculous that ever were main<g ref="char:EOLhyphen"/>tain'd even by <hi>Mahomet</hi> the father of abſurdities, and who was bet<g ref="char:EOLhyphen"/>ter at that worke, than any man that went before him. But at the length what may this errour be? I will give it in his own words, and it is this:</p>
+               <p>All other Creatures (ſaith he) ſhall be raiſed and delivered from Death at the Reſurrection, my reaſons and ground for it, be theſe. Firſt, that otherwiſe the curſe in <hi>Adam</hi> would extend further than
+<pb n="42" facs="tcp:29605:18"/>
+the bleſſing in Chriſt, contrary to the Scriptures, <hi>For as in Adam all die, even ſo in Christ ſhall all be made alive,</hi> 1 <hi>Cor.</hi> 15. 22. Thus he, abuſing Scripture, as we ſee, for the upholding of this his prodigious folly. Surely, the man when he reſolved upon theſe things was given over into reprobate ſenſe, and permitted (for his greater confuſion) in ſight both of God and the world to fall into ſuch an <hi>Abyſſus</hi> of ab<g ref="char:EOLhyphen"/>ſurdity as that no man might take harme, or be ſeduced by him but ſuch onely who had a minde to be deceived.</p>
+               <p>It ſeemes then by this beſtiall Doctrine, that at the Reſurrection all the Gnats and Fleas that ever were ſhall be revived, all the Toads and Frogs and poyſonous Serpents and other vermin. Certainly, thoſe who are to live amongſt all theſe are likely to have gallant time of it. His places of Scripture which he profanes in alleadging to prove this need no expoſitor nor anſwer to them, for I thinke no reader is ſo ſim<g ref="char:EOLhyphen"/>ple as cannot do it by himſelfe. Doubtleſſe both according to the common principles of Chriſtianity, and alſo thoſe particulars of this Authour, Chriſt is the cauſe of our Reſurrection, and none are to riſe but thoſe onely for whom he died, and therefore ſince he died not for beaſts, they are not to have any Reſurrection.</p>
+               <p>As for the Aſſertion, it is groſſer and more inexcuſable in this Au<g ref="char:EOLhyphen"/>thour, than it was in <hi>Mahomet,</hi> becauſe this <hi>Mahomet</hi> made a Paradiſe and felicity agreeing moſt of all to beaſts and men of beſtiall diſpoſiti<g ref="char:EOLhyphen"/>ons, for as it is well knowne out of the <hi>Alfurcan</hi> or <hi>Alchoran,</hi> and as <hi>Theophanes</hi> an ancient and faithfull Hiſtorian relateth. <q>His Paradiſe <note place="margin">
+                        <hi>Theophan. apud Porphyr. c.</hi> 17. <hi>&amp; Jacob. de Vitriaco l. Hiſt. Orient. c.</hi> 6.</note> was a place of corporall eating and drinking, of wantonneſſe with women, where there was a River flowing with wine and hony and milke, together with an incomparable deholding of women, not not theſe we have now, but of others. Alſo long laſting plea<g ref="char:EOLhyphen"/>ſures of obſcenity, and other ſuch things full of luxury and folly.</q> So writeth <hi>Theophanes.</hi> But this man who will ſeem a Chriſtian might have learned out of the Goſpell a felicity of an higher ſtraine, one purely refined from all dregs of baſeneſſe and carnality, and that the bleſſed ſhall neither marry nor be married, but live like the Angels in Heaven, not enjoying the felicity of a ſwine, but a celeſtiall. Where<g ref="char:EOLhyphen"/>fore leaving <hi>Mahomet</hi> and other beaſts with him to enjoy ſuch a fe<g ref="char:EOLhyphen"/>licity as they deſerve and feigne unto themſelves; I paſſe unto our Authour's laſt folly, which is his calling it a Riddle, that the ſoule im<g ref="char:EOLhyphen"/>mortall is all of it in all, and again, all in every part, wondring how this ſhould be, and holding it a meer fiction and thing impoſſible: but I for my part do not wonder, that a man of ſo groſſe a wit and nar<g ref="char:EOLhyphen"/>row a capacity, as he in this book hath ſhewed himſelfe, ſhould not
+<pb n="43" facs="tcp:29605:18"/>
+underſtand this Doctrine or ſaying, eſpecially if he will judge of the nature of indiviſible preſences by thoſe that are diviſible, as it ſeemes he does. Yet I have cauſe to wonder why ſo ſtupid and ſo ſorry a fellow as this is, ſhould dare to hold it to be a Riddle or impoſſible, onely becauſe he with his ſmall wit is not able to underſtand it; as if forſooth, nothing were poſſible to Nature or to God the Authour of Nature, ſaving that alone which he underſtands how it can be done. I am now quite weary of this man, and ſicke with raking ſo long in ſuch a heap of dirt, and therefore at this inſtant I leave him to be<g ref="char:EOLhyphen"/>thinke himſelfe about making a timely recantation.</p>
+               <p>Now, turning with delight unto my Reader, to ſolace and refreſh my ſelfe after all this travaile, I deſire him to look into <hi>Hierocles</hi> Commentary upon the Golden Verſes aſcribed to <hi>Pythagoras,</hi> in <note place="margin">Hierocles in Carm. Pyth.</note> which he ſeemeth to have diſcovered the originall of this pernicious errour, touching the ſoules mortality. <q>What availes it, faith he, with perjuries and murders and other wicked wayes to gather wealth and to ſeem rich unto the world, and to want thoſe good things which are conducible unto the minde? But beſides, to be ſtu<g ref="char:EOLhyphen"/>pid and inſenſible of them, and thereby to augment the evill, or if they have any remorſe of conſcience for their offences, to be tor<g ref="char:EOLhyphen"/>mented in their ſoules, and affraid of the puniſhments of Hell, com<g ref="char:EOLhyphen"/>forting themſelves with this alone, that there is no way of eſcaping them, and from hence are ready to cure one evill with another, and by a perſwaſion that the ſoule is mortall, to ſooth up themſelves in wickedneſſe, judging they are not worthy to have any thing of theirs remaining after death, that ſo they might avoid thoſe puniſh<g ref="char:EOLhyphen"/>ments, which by judgement ſhould be inflicted on them; for a wicked man is loath to thinke his ſoule to be immortall, for feare of the revenges that are to follow his miſdeeds. Wherefore pre<g ref="char:EOLhyphen"/>venting the Judge who is below, he pronounceth the ſentence of death againſt himſelfe, as holding it fit that ſuch a wicked ſoule ſhould have no longer a being nor ſubſiſtence. Behold here the foun<g ref="char:EOLhyphen"/>tain head of this errour opened and purged by <hi>Hierocles.</hi>
+                  </q>
+               </p>
+               <p>In fine, from whatſoever puddle this errour ſprung, let us remem<g ref="char:EOLhyphen"/>ber what <hi>Socrates</hi> (being to die) delivered touching the various con<g ref="char:EOLhyphen"/>dition of ſoules after this life. <q>He ſaid, as <hi>Cicero</hi> relateth, there were two different pathes or voyages of ſoules at their departure <note place="margin">
+                        <hi>Cic. l.</hi> 1. <hi>Tuſcul.</hi>
+                     </note> from the bodies, for all ſuch as with humane vices had contaminated themſelves, and were delivered wholly up to luſt, with which as with domeſticke vices being blinded, they had by lewd actions de<g ref="char:EOLhyphen"/>filed themſelves, or had attempted againſt the Common-wealth any
+<pb n="44" facs="tcp:29605:19"/>
+crime, or fraud inexpiable, that theſe had a wandring way aſſigned for them, ſequeſtred from the aſſemblies of the Gods; but ſuch againe as had preſerved themſelves entire and chaſte, contracting little or no contagion from the body, having alwayes retired and withdrawn themſelves from it, and had in humane bodies imitated the converſation of the Gods, theſe found opened for them an eaſie way of returne to them from whom they proceeded at the firſt.</q>
+               </p>
+               <p>This is the Doctrine both of <hi>Cicero</hi> and of <hi>Socrates,</hi> what then re<g ref="char:EOLhyphen"/>maines to do but to hearken attentively to the wiſe Counſell of the Prince of Philoſophers <hi>Ariſtotle,</hi> and to ſuffer it to have a powerfull influence into all the paſſages of our life? His words <hi>l.</hi> 10. <hi>Ethic. c.</hi> 9. ac<g ref="char:EOLhyphen"/>cording to the diviſion of <hi>Andronicus Rhodius</hi> be as follow. <q>If then, ſaith he, our underſtanding, in reſpect of man, be a thing divine, ſo <note place="margin">
+                        <hi>Ariſt. l.</hi> 10. <hi>Ethic. c.</hi> 9.</note> that life which is lead according unto the underſtanding, if compa<g ref="char:EOLhyphen"/>red with life humane, is divine alſo; neither, as ſome perſwade, is it lawfull for a man to reliſh and follow onely that which is humane, and being mortall, thoſe things onely which are mortall, but as much as in him lieth, he ought to vindicate himſelfe from all mortality, and to take ſpeciall care that he live according to that part which is moſt excellent within him. Now that which is beſt within us is our minde, which though it be ſmall in bulke and weight, yet in power and excellency doth ſurpaſſe the reſt.</q> And with this wiſe counſell of the Philoſopher I conclude this whole Queſtion, which though the day of every mans departure will decide and give a finall reſolution to it, yet in the mean ſeaſon, are not diſputes of this nature fruitleſſe or ſuperfluous, becauſe if they be well performed, they are like burning torches, which in the darke gallery of this life teach us how to direct our ſteppes, and before that blacke day come, to helpe us for the making our preparations before-hand, that ſo with better hopes of ſafety we may meet our deadly enemies in the gate. With<g ref="char:EOLhyphen"/>out all doubting for the repreſſing of brutiſh, beſtiall and unworthy affections; and again for our encouragement to noble and generous de<g ref="char:EOLhyphen"/>ſignements, the beſt preparatives againſt Death, there is no conſidera<g ref="char:EOLhyphen"/>tion ſo powerfull and efficacious as that one of the high perfection of mans ſoule, and the immortall nature and condition of it, for, as <hi>Cicero</hi> obſerveth <hi>l.</hi> 1. <hi>de legib. Qui ſe ipſum nôrit primùm aliquid ſentiet ſe ha<g ref="char:EOLhyphen"/>bere divinum, ingenium<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in ſe ſuum ſicut ſymulachrum aliquod dedica<g ref="char:EOLhyphen"/>tum</hi> 
+                  <note place="margin">
+                     <hi>Cicero l.</hi> 1. <hi>de legib.</hi>
+                  </note> 
+                  <hi>putabit, tanto<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> munere Deorum ſemper aliquid dignum faciet &amp; ſentiet.</hi> 
+                  <q>He that doth know himſelfe will forthwith finde within him ſomething that is divine, and will hold his underſtanding as a ſtatue dedicated, and be alwayes thinking or doing ſomething an<g ref="char:EOLhyphen"/>ſwerable
+<pb n="45" facs="tcp:29605:19"/>
+to ſo great munificence of the Gods.</q> That is to ſay, he will be mindfull, that as in upright ſhape of body and the perfection of his ſpirit, he excelleth beaſts and all creatures irrationall, ſo he will endeavour to do in the condition of his living, by diſdaining to ſtoop to any thing which is baſe, or to defile the houſe in which his ſoule inhabits with any unworthy or ignoble actions.</p>
+               <p>I will ſeale and ſigne this whole diſpute with the determination and cenſure of the book of Wiſedome, which book whether it be re<g ref="char:EOLhyphen"/>ceived into the Canon, or no, yet is it confeſſedly very ancient, and therefore by conſent of all may claime a juſt precedence of authority before any Heathen Philoſopher whatſoever, the words are theſe, <hi>Juſtorum animae in manu Dei ſunt, &amp; non tanget illos tormentum mortis, viſi ſunt oculis inſipientium mori, illi autem ſunt in pace.</hi> The ſoules of <note place="margin">
+                     <hi>Sap.</hi> 3.</note> the juſt be in the hands of God, and the torment of Death ſhall not touch them. To the eyes of the fooliſh they ſeemed to die, but they remain in peace. Behold here in the judgement of this venerable Au<g ref="char:EOLhyphen"/>thour, what kinde of people they are who hold the ſoules mortality, namely, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſuch as be deſtitute of true judgement and underſtand<g ref="char:EOLhyphen"/>ing. This is not my cenſure, neither is this character of my making; for who am I that ſhould preſume ſo farre? but it is the judgement of the ancient Authour of the Book of Wiſedome, whoſe yeares and credit may deſerve regard, even amongſt thoſe ſpirits that be moſt confident of their own conceptions, and be the greateſt admirers and idolaters of themſelves. In fine, this ancient Sage brands all deniers of our ſoules immortality with the ſelfe ſame note of ignominy, that <hi>David</hi> the kingly Prophet did marke that wretched mortall who <note place="margin">
+                     <hi>Pſalm.</hi> 13.</note> cloſely and in his heart had ſaid, <hi>There is no God.</hi> Yet there is this ods between them two, and worthy to be obſerved, for though both of them be impious and abſurd, yet one of them had ſome ſhame in him and ſaid it onely in his heart. But this Adverſary of ours goes further, and had the face to publiſh his impiety in Print, or at leaſt the heart ſo to do it, as he himſelfe might lie concealed, and his name unknowne; which covert way of his though it appeare not altogether ſo bold and bad, as if he had put his name unto his worke, yet was it an act too bold for any Chriſtian man or true Philoſopher to exerciſe, or to be an Authour of in Print; for alas, after ſo many great Divines and deep Philoſophers, whoſe uniforme ſuffrages we have for the dignity of man, that is to ſay, for the ſoules immortall nature and incorruptibi<g ref="char:EOLhyphen"/>lity, how could the cogitations unto the contrary of this poore worme be a matter any way conſiderable with men of underſtanding and ability?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
